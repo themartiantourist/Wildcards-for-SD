@@ -1,0 +1,72 @@
+Park
+Beach
+Street
+Village
+Town
+City
+Metropolis
+Suburb
+Hamlet
+Township
+Rural Community
+Ghost Town
+Frontier Settlement
+Fortified Settlement
+Agricultural Settlement
+Mining Settlement
+Coastal Settlement
+River Settlement
+Hill Settlement
+Highland Settlement
+Mountain Settlement
+Desert Settlement
+Jungle Settlement.
+Skyscraper
+Tower
+Monument
+Bridge
+Basilica
+Citadel
+Palace
+Castle
+Villa
+Mansion
+Bungalow
+Cottage
+Lodge
+Hut
+Cabin
+Yurt
+Teepee
+Igloo
+Pueblo
+Lighthouse
+Windmill
+Observatory
+Aqueduct
+Bazaar
+Pavilion
+Arcade
+Portico
+Rotunda
+Colosseum
+Amphitheater
+Ziggurat
+Pyramid
+Minaret
+Stupa
+Pagoda
+Kaaba
+Parthenon
+Taj Mahal
+Angkor Wat
+Machu Picchu
+Stonehenge
+Great Wall of China
+Pyramids of Giza
+Leaning Tower of Pisa
+Buckingham Palace
+White House
+Sydney Opera House
+Eiffel Tower
+Burj Khalifa

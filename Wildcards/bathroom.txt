@@ -1,0 +1,24 @@
+Full Bathroom
+Half Bathroom
+Master Bathroom
+Jack and Jill Bathroom
+En Suite Bathroom
+Guest Bathroom
+Public Bathroom
+Shared Bathroom
+Three-Piece Bathroom
+Four-Piece Bathroom
+Five-Piece Bathroom
+Powder Bathroom
+Water Closet Bathroom
+Wet Bathroom
+Dry Bathroom
+Traditional Bathroom
+Sauna
+Infrared sauna
+Finnish sauna
+Steam Bathroom
+Hamam Bathroom
+Shower Bathroom
+Changing Bathroom
+Spa Bathroom

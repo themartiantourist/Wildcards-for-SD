@@ -1,0 +1,30 @@
+Backpack
+Beach Bag
+Briefcase
+Clutch
+Crossbody Bag
+Diaper Bag
+Duffle Bag
+Handbag
+Messenger Bag
+Purse
+Shoulder Bag
+Tote Bag
+Weekender Bag
+Camera Bag
+Computer Bag
+Cooler Bag
+Drawstring Bag
+Garment Bag
+Gym Bag
+Hiking Backpack
+Laptop Backpack
+Luggage
+Makeup Bag
+Nursing Bag
+Office Bag
+Pet Carrier Bag
+School Backpack
+Suitcase
+Travel Backpack
+Wallets

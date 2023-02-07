@@ -1,0 +1,43 @@
+Pistol
+Revolver
+Shotgun
+Rifle
+Submachine Gun
+Assault Rifle
+Bolt-Action Rifle
+Semi-Automatic Rifle
+Machine Gun
+Sniper Rifle
+Carbine
+Derringer
+Airsoft Gun
+Paintball Gun
+Taser
+Flare Gun
+BB Gun
+Musket
+Blunderbuss
+Flamethrower
+Harpoon Gun
+Water Gun
+Nerf Gun
+BFG 9000 (Doom)
+Portal Gun (Portal)
+Phalanx (Halo)
+N7 Eagle (Mass Effect)
+Gravity Gun (Half-Life 2)
+Bouncing Betty (Call of Duty)
+Mateba Autorevolver (Shadowrun)
+Ripper (Quake)
+Deatomizer Mk. III (Ratchet & Clank)
+Spiker (Gears of War)
+Annihilator Pistol (Dead Space)
+M41A Pulse Rifle (Aliens)
+X12 Bolter (Warhammer 40K)
+Widowmaker (Overwatch)
+R.Y.N.O. (Ratchet & Clank)
+LeMat Revolver (Fallout)
+Helix Pistol (Destiny)
+Bolter (Warhammer 40K)
+E-11 Blaster Rifle (Star Wars)
+Ray Gun (Call of Duty)

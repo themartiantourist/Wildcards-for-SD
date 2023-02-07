@@ -1,0 +1,74 @@
+Mercury
+Venus
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Terrestrial planet
+Gas giant planet
+Ice giant planet
+Hot Jupiter planet
+Super-Earth planet
+Mini-Neptune planet
+Sub-Saturn planet
+Brown dwarf planet
+Rogue planet
+Exoplanet
+Desolate planet
+Isotopic planet
+Rogue planet
+Anomaly planet
+Toxic planet
+Radioactive planet
+Lush planet
+Frozen planet
+Arid planet
+Volcanic planet
+Molten planet
+Stormy planet
+Tundra planet
+Boreal planet
+Subtropical planet
+Tropical planet
+Jungle planet
+Savanna planet
+Kepler-186f planet
+Proxima Centauri b planet
+TRAPPIST-1e planet
+Kepler-22b
+HD 40307g planet
+K2-18b planet
+Gliese 581g planet
+Kepler-438b planet
+Kepler-62f planet
+Kepler-69c planet
+HD 209458 b planet
+WASP-12b planet
+WASP-17b planet
+HAT-P-26b planet
+CoRoT-7b planet
+Alderaan planet
+Arrakis planet
+Bespin planet
+Coruscant planet
+Cybertron planet
+Dagobah planet
+Endor planet
+Eternia planet
+Gallifrey planet
+Geonosis planet
+Hoth planet
+Kamino planet
+Krypton planet
+Lothal planet
+Mustafar planet
+Naboo planet
+Omicron Persei 8 planet
+Pandora planet
+Tatooine planet
+Thra planet
+Vulcan planet
+Zelos planet

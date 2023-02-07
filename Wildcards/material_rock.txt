@@ -1,0 +1,93 @@
+Granite
+Basalt
+Pumice
+Obsidian
+Andesite
+Rhyolite
+Sandstone
+Limestone
+Shale
+Conglomerate
+Breccia
+Marble
+Gneiss
+Schist
+Quartzite
+Slate
+Hornfels
+Diorite
+Peridotite
+Basaltic Andesite
+Dacite
+Rhyodacite
+Trachyte
+Volcanic Breccia
+Tuff
+Ash Flow Tuff
+Welded Tuff
+Porphyritic Andesite
+Porphyritic Basalt
+Porphyritic Rhyolite
+Porphyritic Dacite
+Porphyritic Trachyte
+Scoria
+Volcanic Glass
+Obsidianite
+Vesicular Basalt
+Vesicular Rhyolite
+Vesicular Andesite
+Vesicular Dacite
+Vesicular Trachyte
+Lava
+Pyroclastic Rock
+Tephrite
+Phonolite
+Trachyandesite
+Lamprophyre
+Kimberlite
+Carbonatite
+Charnockite
+Gabbro
+Norite
+Anorthosite
+Dunite
+Peridotite
+Eclogite
+Blueschist
+Greenschist
+Migmatite
+Quartz Diorite
+Quartz Monzonite
+Granodiorite
+Tonalite
+Monzogranite
+Syenogranite
+Leucogranite
+S-Type Granite
+I-Type Granite
+A-Type Granite
+B-Type Granite
+Greywacke
+Arkose
+Feldspathic Sandstone
+Quartz Sandstone
+Calcarenite
+Bioclastic Limestone
+Coquina
+Chalk
+Micrite
+Oolite
+Peloidal Limestone
+Rudstone
+Travertine
+Tufa
+Marl
+Claystone
+Shale
+Mudstone
+Siltstone
+Sand Shale
+Mud Shale
+Clay Shale
+Silty Shale
+Marlstone

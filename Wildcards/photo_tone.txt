@@ -1,0 +1,15 @@
+Sepia
+Black and White
+Grayscale
+Cool
+Warm
+Desaturated
+Saturated
+B&W High Contrast
+B&W Low Contrast
+Cross Processed
+Split Tone
+Cyanotype
+Duo Tone
+Tritone
+Quadtone

@@ -1,0 +1,32 @@
+8-bit style graphics
+16-bit style graphics
+32-bit style graphics
+64-bit style graphics
+128-bit style graphics
+256-bit style graphics
+PS1 style graphics
+PS2 style graphics
+PS3 style graphics
+PS4 style graphics
+PS5 style graphics
+Xbox style graphics
+Xbox 360 style graphics
+Xbox One style graphics
+Xbox Series X style graphics
+Xbox Series S style graphics
+NES style graphics
+SNES style graphics
+Nintendo 64 (N64) style graphics
+GameCube style graphics
+Wii style graphics
+Wii U style graphics
+Switch style graphics
+Sega Genesis style graphics
+Dreamcast style graphics
+Atari 2600 style graphics
+Atari 7800 style graphics
+Atari Jaguar style graphics
+Commodore 64 style graphics
+Amiga style graphics
+Sony PSP style graphics
+Sony PlayStation Vita style graphics

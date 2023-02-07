@@ -1,0 +1,18 @@
+Porcelain
+Stoneware
+Earthenware
+Terra cotta
+Biscuit
+Bone china
+Fine bone china
+Kaolin
+Mullite
+Cordierite
+Alumina
+Zirconia
+Silicon nitride
+Silicon carbide
+Steatite
+Alumina-silica
+Magnesia-carbon
+Alumina-zirconia-silica

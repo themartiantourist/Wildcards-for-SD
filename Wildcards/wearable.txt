@@ -1,0 +1,32 @@
+Helmet
+Mask
+Goggle
+Glove
+Boot
+Shoe
+Sandal
+Flipper
+Earplug
+Headphone
+Wristband
+Belt
+Harnesse
+Suspender
+Sleeve
+Shin guard
+Knee pad
+Elbow pad
+Shoulder pad
+Chest plate
+Backpack
+Fanny pack
+Hydration pack
+Bag
+Purse
+Wallet
+Watch
+Bracelet
+Ring
+Necklace
+Earring
+Anklet

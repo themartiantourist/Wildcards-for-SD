@@ -1,0 +1,32 @@
+Living room
+Bedroom
+Kitchen
+Dining room
+Bathroom
+Home office
+study
+Family room
+Laundry room
+Guest room
+Storage room
+Basement
+attic
+Room
+Cell
+Pen
+Stall
+Enclosure
+Chamber
+Compartment
+Cubicle
+Cab
+Booth
+Cabin
+Confinement
+Coop
+Crib
+Crypt
+Den
+Hole
+Ward
+Yard

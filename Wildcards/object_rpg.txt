@@ -1,0 +1,198 @@
+Potion
+Elixir
+Health Globe
+Chalice of Healing
+Ether
+Ether Crystal
+Pheonix Down
+Echo Herbs
+Remedy
+Cure-All
+Estus Flask
+Stone of Magic
+Mana Crystal
+Moon Stone
+Sun Stone
+Soul Stone
+Rune Stone
+Heart Stone
+Lifestone
+Elemental Stone
+Key Item
+Map
+Compass
+Quest Item
+Lore Item
+Treasure Chest
+Artifact
+Gem
+Material
+Ore
+Herb
+Ammo
+Scroll
+Book
+Tome
+Journal
+Note
+Letter
+Quest Log
+Inventory
+Bag
+Satchel
+Chest
+Backpack
+Pouch
+Key
+Lockpick
+Rune
+Talisman
+Amulet
+Charm
+Ring
+Brooch
+Earring
+Necklace
+Bracelet
+Circlet
+Crown
+Tiara
+Diadem
+Wand
+Rod
+Scepter
+Staff
+Orb
+Spell Tome
+Enchanted Item
+Arcane Item
+Divine Item
+Dark Item
+Light Item
+Legendary Item
+Unique Item
+Set Item
+Mythic Item
+Quest-specific Item
+Side Quest Item
+Dungeon Key
+Boss Key
+Attunement Catalyst
+Upgrade Material
+Upgrade Stone
+Enhancement Crystal
+Shard
+Fragment
+Essence
+Ectoplasm
+Seed
+Bullet
+Arrow
+Bolt
+Grenade
+Bomb
+Dynamite
+Pebble
+Rock
+Stick
+Branch
+Twig
+Acorn
+Leaf
+Petal
+Flower
+Berries
+Mushroom
+Roots
+Herbs
+Spices
+Food
+Water
+Wine
+Ale
+Mead
+Bread
+Cheese
+Meat
+Fish
+Fruit
+Vegetables
+Cooking Utensils
+Camping Equipment
+Bedroll
+Tent
+Firewood
+Lantern
+Torch
+Candle
+Rope
+Ladder
+Paddle
+Oar
+Fishing Rod
+Fishing Bait
+Net
+Hunting Equipment
+Traps
+Snares
+Pelt
+Hides
+Furs
+Feathers
+Bones
+Teeth
+Claws
+Horns
+Tusks
+Talons
+Scales
+Eggs
+Nests
+Honey
+Wax
+Silk
+Webs
+Shells
+Pearls
+Corals
+Fossils
+Gems
+Minerals
+Ore
+Metals
+Wood
+Plants
+Herbs
+Flowers
+Fungi
+Mushrooms
+Berries
+Fruit
+Vegetables
+Spices
+Ingredients
+Equipment
+Tools
+Instruments
+Furniture
+Clothing
+Armor
+Shield
+Helmet
+Boot
+Gloves
+Bracer
+Belt
+Cloaks
+Robes
+Amulet
+Ring
+Necklace
+Earrings
+Bracelet
+Wand
+Rod
+Scepter
+Staff
+Orb
+Spellbook

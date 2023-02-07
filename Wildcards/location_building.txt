@@ -1,0 +1,34 @@
+Shopping Mall
+Library
+Museum
+Theatre
+Community Center
+Restaurant
+Hospital
+Train Station
+Bus Station
+Airport
+Sports Arena
+School
+University
+Government Building
+Post Office
+Police Station
+Cathedral
+Dome
+Temple
+Citadel
+Palace
+Castle
+Villa
+Mansion
+Bungalow
+Cottage
+Lodge
+Hut
+Cabin
+Yurt
+Teepee
+Igloo
+Pueblo
+Lighthouse

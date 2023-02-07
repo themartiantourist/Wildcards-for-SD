@@ -1,0 +1,10 @@
+Flat shading
+Cel shading
+Gouraud shading
+Phong shading
+Radial gradient shading
+Textured shading
+Ambient occlusion shading
+Soft shading
+Wireframe shading
+Subsurface scattering shading

@@ -1,0 +1,18 @@
+Cathedral
+Chapel
+Mosque
+Temple
+Synagogue
+Basilica
+Monastery
+Shrine
+Stupa
+Gurdwara
+Pagoda
+Tabernacle
+Oratory
+Cenotaph
+Chantry
+Catacomb
+Martyrium
+Hagia Sophia

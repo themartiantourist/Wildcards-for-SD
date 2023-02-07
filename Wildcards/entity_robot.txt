@@ -1,0 +1,35 @@
+Asimo
+Atlas
+Baxter
+Boston Dynamics Spot
+Epson HC-20
+EveR-1
+GAKUTEN-Oh
+Honda P2
+HRP-2
+I-Fairy
+Jaxon
+Kismet
+NAO
+Pepper
+PR2
+QRIO
+Repliee Q1
+Sarcos Guardian XO
+Toy Robo Wall-E
+Vstone Robovie R3
+Wabian
+WowWee RoboRaptor
+Zeno R25
+HAL 9000
+The Terminator
+T-800 Terminator
+T-850 Terminator
+T-1000 Terminator
+T-X Terminator
+R2-D2
+C-3PO
+The Iron Giant
+Wall-E
+B-9
+Data

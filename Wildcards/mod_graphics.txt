@@ -1,0 +1,45 @@
+Pixelated
+Low-Poly
+Blocky
+Voxelated
+Voxel
+Voxel-based
+Cubic
+Geometric
+Polygonal
+Textured
+Stylized
+Low-Res
+High-res
+Procedural
+Rasterized
+Raster graphics
+Bitmap
+Vector graphics
+Isometric
+Pixellated
+Simplified
+De-Pixelated
+Faceted
+Retina display
+Ray Tracing
+RTX (Real-Time Ray Tracing)
+Path Tracing
+Global Illumination
+Shadows
+Ambient Occlusion
+Reflection
+Refraction
+Photon Mapping
+Bounding Volume Hierarchy (BVH)
+Rasterization
+Hardware Acceleration
+Shader
+GPU (Graphics Processing Unit)
+Light Propagation Volumes (LPVs)
+3D
+Textured
+Skeletal animation
+Motion capture
+Dynamic lighting
+HDR rendering

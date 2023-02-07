@@ -1,0 +1,20 @@
+Round shaped
+Square shaped
+Rectangular shaped
+Triangle shaped
+Oval shaped
+Diamond shaped
+Hexagonal shaped
+Octagonal shaped
+Star-shaped
+Heart-shaped
+Cylindrical shaped
+Conical shaped
+Spherical shaped
+Tear-drop shaped
+Leaf shaped
+Hourglass shaped
+Irregular shaped
+Wavy shaped
+Zigzag shaped
+Straight-line shaped

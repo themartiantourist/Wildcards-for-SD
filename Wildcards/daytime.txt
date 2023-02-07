@@ -1,0 +1,12 @@
+Morning
+Dawn
+Early morning
+Mid-morning
+Noon
+Afternoon
+Early afternoon
+Late afternoon
+Evening
+Dusk
+Night
+Midnight

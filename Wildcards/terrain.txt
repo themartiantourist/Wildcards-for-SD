@@ -1,0 +1,22 @@
+Plains
+Desert
+Savanna
+Tundra
+Taiga
+Rainforest
+Steppe
+Mountain
+Hills
+Plateau
+Coastal
+Swamp
+Marsh
+River delta
+Canyon
+Valley
+Glacier
+Ice sheet
+Volcanic
+Foothills
+Mesa
+Badlands

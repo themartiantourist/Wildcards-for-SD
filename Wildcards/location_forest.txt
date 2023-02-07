@@ -1,0 +1,25 @@
+Woods
+Jungle
+Bush
+Wilderness
+Timberland
+Grove
+Thicket
+Copse
+Woodland
+Arboretum
+Treehouse
+Cabin
+Shelter
+Tent
+Lean-to
+Teepee
+Yurt
+Platform
+Hammock stand
+Campfire pit
+Hunting blind
+Picnic area
+Nature trail
+Tree platform
+Wildlife viewing platform

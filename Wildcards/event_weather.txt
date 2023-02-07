@@ -1,0 +1,38 @@
+Rain
+Hurricane
+Typhoon
+Tornado
+Heat wave
+Drought
+Hailstorm
+Snowstorm
+Ice storm
+Monsoon
+Dust storm
+Fog
+Acid rain
+Flood
+Landslide
+Thunder and lightning
+Snowfall
+Hail
+Windstorm
+Sandstorm
+Drizzle
+Freezing rain
+Heavy rain
+Light rain
+Showers
+Drizzle
+Shower
+Downpour
+Storm
+Thunderstorm
+Hailstorm
+Monsoon
+Squall
+Tropical Storm
+Blizzard
+Freezing Rain
+Sleet
+Graupel

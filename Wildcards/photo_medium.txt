@@ -1,0 +1,30 @@
+Polaroid
+Kodachrome
+Fujichrome
+Ektachrome
+Agfacolor
+Ilford
+Konica
+Ansco
+Velvia
+Provia
+Sensia
+Forte
+Digital
+Disposable Camera
+Instamatic
+Medium Format
+Large Format
+Transparency
+C-Print
+Dye-Sublimation
+Gelatin Silver Print
+Inkjet Print
+Albumen Print
+Chromogenic Print
+Lambda Print
+Lightjet Print
+Giclée Print
+Offset Lithograph
+Lithprint
+Autochrome

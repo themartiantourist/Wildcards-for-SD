@@ -1,0 +1,19 @@
+Single Bed
+Twin Bed
+Double Bed
+Queen Bed
+King Bed
+California King Bed
+Bunk Bed
+Loft Bed
+Murphy Bed
+Daybed
+Canopy Bed
+Four Poster Bed
+Platform Bed
+Upholstered Bed
+Storage Bed
+Adjustable Bed
+Hospital Bed
+Futon Bed
+Air Mattress Bed

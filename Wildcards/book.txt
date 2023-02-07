@@ -1,0 +1,26 @@
+Codex
+Grimoire
+Tome
+Manuscript
+Scroll
+Spellbook
+Book of Enchantments
+Book of Lore
+Chronicles
+Almanac
+Guidebook
+Compendium
+Diary
+Ledger
+Journal
+Guide
+Atlas
+Encyclopedia
+Annals
+Register
+Archive
+Lexicon
+Paperback
+Hardcover
+E-book
+Kindle

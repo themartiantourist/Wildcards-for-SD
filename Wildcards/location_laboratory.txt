@@ -1,0 +1,59 @@
+Chemistry Laboratory
+Physics Laboratory
+Biology Laboratory
+Environmental Science Laboratory
+Materials Science Laboratory
+Geology Laboratory
+Electronics Laboratory
+Mechanical Engineering Laboratory
+Computer Science Laboratory
+Medical Laboratory
+Forensic Laboratory
+Food Science Laboratory
+Metallurgical Laboratory
+Nanotechnology Laboratory
+Microbiology Laboratory
+Toxicology Laboratory
+Genetics Laboratory
+Marine Science Laboratory
+Biotechnology Laboratory
+Astronomy Laboratory
+Climatology Laboratory
+Fermilab
+SESAME
+SuperKEKB
+CERN
+SNO+
+J-PARC
+DESY
+SPS
+ISOLDE
+Neutrino Factory
+ILC
+CLIC
+TLEP
+Muon Collider
+Future Circular Collider
+Linac-Ring Collider
+Muon Ionization Cooling Experiment
+Spallation Neutron Source
+Umbrella Corporation
+Aperture Science
+Project Cadmus
+Cheyenne Mountain
+Stahlstadt
+LexCorp
+Dharma Initiative
+Griggs Laboratories
+Umbrella Africa
+Genosha
+Ozwell E. Spencer's Mansion
+The Hive
+NERV
+Biotics Lab
+The Lodge
+The Hive
+Black Mesa
+Star Labs
+Division
+Prometheus Group

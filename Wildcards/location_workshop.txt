@@ -1,0 +1,52 @@
+Automotive repair workshop
+Carpentry workshop
+Welding workshop
+Woodworking workshop
+Metalworking workshop
+Electronics repair workshop
+Plumbing workshop
+Masonry workshop
+Roofing workshop
+Painting workshop
+Blacksmithing workshop
+Pottery workshop
+Jewelry making workshop
+Boat building workshop
+Leatherworking workshop
+Furniture making workshop
+Clock making workshop
+Bladesmithing workshop
+Taxidermy workshop
+Wood carving workshop
+Marquetry workshop
+Bookbinding workshop
+Blacksmith's forge
+Alchemy lab
+Enchanter's den
+Leatherworker's studio
+Glassblower's kiln
+Arcanist's laboratory
+Weaver's loom
+Jeweler's bench
+Carpenter's workshop
+Cooper's workshop
+Sculptor's studio
+Herbalist's garden
+Fletcher's studio
+Smithy's forge
+Runecarver's chambers
+Cybernetics Workshop
+Robotics Workshop
+Nanotech Workshop
+Spacecraft Assembly Bay
+AI Research Lab
+Time Travel Research Station
+Genetic Engineering Facility
+Advanced Propulsion Workshop
+Augmented Reality Lab
+Quantum Computing Lab
+Energy Weapons Development Center
+Virtual Reality Development Studio
+Cyber-Security Operations Center
+Intergalactic Communication Hub
+Space Mining Equipment Workshop

@@ -1,0 +1,30 @@
+Wood
+Softwood
+Hardwood
+pine wood
+spruce wood
+fir wood
+cedar wood
+oak wood
+maple wood
+cherry wood
+birch wood
+walnut wood
+mahogany wood
+Exotic wood
+bamboo wood
+teak wood
+ipe wood
+wenge wood
+zebrawood
+Reclaimed wood
+Engineered wood
+plywood
+particle board
+medium-density fiberboard
+Balsa wood
+Redwood
+Cypress
+Ash wood
+Elm wood
+Wicker

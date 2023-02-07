@@ -1,0 +1,20 @@
+Mild temperature
+Moderate temperature
+Blistering temperature
+Lukewarm temperature
+Chilly temperature
+Frosty temperature
+Tepid temperature
+Brisk temperature
+Nippy temperature
+Stifling temperature
+Blazing temperature
+Biting temperature
+Sizzling temperature
+Arctic temperature
+Steamy temperature
+Roasting temperature
+Shivering temperature
+Scorching hot temperature
+Frigid temperature
+Sweltering temperature

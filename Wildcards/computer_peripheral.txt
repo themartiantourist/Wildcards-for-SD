@@ -1,0 +1,17 @@
+Keyboard
+Mouse
+Monitor
+Speakers
+Headphones
+Webcam
+Microphone
+Printer
+Scanner
+Joystick
+Gaming Mouse
+Graphics Tablet
+External Hard Drive
+USB Drive
+Flash Drive
+Memory Card
+CD/DVD Drive

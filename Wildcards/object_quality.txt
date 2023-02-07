@@ -1,0 +1,37 @@
+Refractive
+Transparent
+Opaque
+Brittle
+Dense
+Elastic
+Hard
+Malleable
+Rigid
+Soft
+Strong
+Tough
+Weak
+Lightweight
+Heavy
+Durable
+Fragile
+Flexible
+Inelastic
+Thermal Conductive
+Electrically Conductive
+Magnetic
+Insulative
+Absorbent
+Repellent
+Adhesive
+Non-Adhesive
+Water-Resistant
+Water-Soluble
+Heat-Resistant
+Flame-Retardant
+UV-Resistant
+Chemically Resistant
+Chemically Reactive
+Corrosion-Resistant
+Biodegradable
+Non-Biodegradable

@@ -1,0 +1,21 @@
+Desktop computer
+Laptop
+Server
+Mainframe computer
+Supercomputer
+Tablet
+Netbook
+Workstation computer
+Home computer
+Gaming computer
+Embedded computer
+Mini computer
+Thin client computer
+Micro computer
+Handheld computer
+Notebook computer
+Smartphone
+PDA
+Microcontroller
+DEC PDP-8
+

@@ -1,0 +1,37 @@
+Engraving
+Carving
+Inscription
+Relief
+Bas-relief
+High relief
+Low relief
+Intaglio
+Glyph
+Hieroglyph
+Petroglyph
+Pictogram
+Runestone
+Scrimshaw
+Sculpture
+Statue
+Bust
+Bustrine
+Statuary
+Figurine
+Monument
+Fountains
+Busts
+Plaques
+Chiseled
+Cast
+Modelled
+Molded
+Assembled
+Stamped
+Etched
+Carved
+Sculpted
+Column
+Obelisk
+Tombstone
+Headstone
