@@ -57,7 +57,7 @@ After installing you can immediately start using it. (no restart needed)
 
 ## Creation process
 
-Almost all of the wildcards was generated with [ChatGPT](chat.openai.com/). I borrowed some from [this](https://github.com/mattjaybe/sd-wildcards) repo and changed the file names to fit the naming convention that I am following.
+Almost all of the wildcards was generated with [ChatGPT](https://chat.openai.com/). I borrowed some from [this](https://github.com/mattjaybe/sd-wildcards) repo and changed the file names to fit the naming convention that I am following.
 
 A sample ChatGPT prompt can be:
 ```
