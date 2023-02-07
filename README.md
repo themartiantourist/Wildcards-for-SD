@@ -35,9 +35,9 @@ There are two files inside the wildcard directory containing a list of animal an
 
 Here is a more complex prompt using this library: 
 
-```__adj_horror__ __entity_sky__ flying over a __natural_structure__ beside __location_famous__, the creature is glowing with __mod_fantasy__ energy, __photo_angle__, __photo_ISO__, __photo_fstop__, taken with __photo_camera__```
+```__adj_horror__ __entity_bird__ flying over a __location_natural__ beside __location_famous__, the creature is glowing with __mod_fantasy__ energy, __photo_angle__, __photo_ISO__, __photo_fstop__, taken with __photo_camera__```
 
-Generated prompt can be: **Ominous bird** flying over a **river** beside **Eiffel tower**, the creature is glowing with **ethereal** energy, **low angle shot**, **ISO 800**, **f/2.8**, taken with **Canon EOS 5D**.
+Generated prompt can be: **Ominous eagle** flying over a **river** beside **Eiffel tower**, the creature is glowing with **ethereal** energy, **low angle shot**, **ISO 800**, **f/2.8**, taken with **Canon EOS 5D**.
 
 
 ## How to use
