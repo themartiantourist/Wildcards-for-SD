@@ -8,4 +8,6 @@ echo Update complete!
 
 echo UPDATES:
 
-git log -1 --pretty=%B
+git log -1
+
+pause
