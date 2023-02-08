@@ -1,19 +1,19 @@
 Action Scene
+Action Sequence
+Chase Scene
 Comedy Scene
 Dramatic Scene
+Dream Sequence
+Escape Scene
 Fight Scene
+Flashback Scene
+Horror Scene
 Love Scene
 Monologue Scene
 Music Scene
 Mystery Scene
-Horror Scene
-Suspense Scene
-Thriller Scene
-Chase Scene
-Escape Scene
-Action Sequence
-Dream Sequence
-Flashback Scene
 Narration Scene
 Special Effects Scene
+Suspense Scene
+Thriller Scene
 Transformative Scene

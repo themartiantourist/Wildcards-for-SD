@@ -1,39 +1,39 @@
-Cakes
-Pies
-Brownies
-Cookies
-Ice cream
-Sorbets
-Puddings
-Tarts
-Cheesecake
-Mousse
-Flan
-Cupcakes
-Macarons
-Donuts
-Churros
-Cinnamon rolls
-Trifles
-Fruit salad
-Banana bread
-Rice pudding
-Jello
-Eclairs
-Profiteroles
-Crepes
 Baked Alaska
-Tiramisu
-Parfait
-Fruit tart
-Mille-feuille
-Whoopie pie
 Baklava
-Beignets
-Croissants
-Turnovers
+Banana bread
+Beignet
+Brownie
+Cake
+Cheesecake
 Chocolate fondue
+Churros
+Cinnamon roll
+Cookie
 Crème brûlée
-Kanafeh
-S'mores
+Crepes
+Croissant
+Cupcake
 Danish pastry
+Donut
+Eclair
+Flan
+Fruit salad
+Fruit tart
+Ice cream
+Jello
+Kanafeh
+Macaron
+Mille-feuille
+Mousse
+Parfait
+Pie
+Profiterole
+Pudding
+Rice pudding
+S'mores
+Sorbet
+Tart
+Tiramisu
+Trifles
+Turnover
+Whoopie pie

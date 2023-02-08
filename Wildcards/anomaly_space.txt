@@ -1,20 +1,20 @@
+Abandoned Planet
+Abandoned Space Station
 Asteroid Field
 Black Hole
+Cosmic String
+Gravitational Anomaly
+Meteor Shower
 Nebula
+Phantom Planet
 Pulsar
 Quasar
-Wormhole
-Gravitational Anomaly
 Radiant Storm
-Space Plague
 Singularity
-Meteor Shower
-Abandoned Space Station
-Abandoned Planet
-Phantom Planet
-Space Tsunami
-Space Meteor Strike
-Space Debris Field
 Solar Flare
+Space Debris Field
+Space Meteor Strike
+Space Plague
 Space Rift
-Cosmic String
+Space Tsunami
+Wormhole

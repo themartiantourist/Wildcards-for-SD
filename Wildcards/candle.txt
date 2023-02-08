@@ -1,16 +1,16 @@
-Taper candle
-Pillar candle
-Votive candle
-Tea light candle
-Floating candle
-Scented candle
+Beeswax candle
+Chime candle
 Colored candle
 Dipped candle
-Beeswax candle
 Dripless candle
+Floating candle
 Gel candle
-Jar candle
-Sinuous candle
-Unity candle
 Hurricanes candle
-Chime candle
+Jar candle
+Pillar candle
+Scented candle
+Sinuous candle
+Taper candle
+Tea light candle
+Unity candle
+Votive candle

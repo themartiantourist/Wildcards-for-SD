@@ -1,0 +1,63 @@
+Alcove
+Arch
+Architrave
+Archway
+Awning
+Baluster
+Balustrade
+Base
+Bay window
+Canopy
+Capital
+Casing
+Chimney breast
+Coffered ceiling
+Column
+Cornice
+Cornice molding
+Coved ceiling
+Crown molding
+Cupola
+Dome
+Dormer
+Downspouts
+Eaves
+Entablature
+Fascias
+Filigree
+Fireplace
+Flashing
+Fretwork
+Gable
+Gutters
+Handrail
+Hearth
+Jamb
+Lintel
+Louver
+Mantel
+Mullion
+Newel post
+Niche
+Panel molding
+Pediment
+Picture rail
+Pilaster
+Plasterwork
+Plinth
+Portico
+Rails
+Rake
+Roof pitch
+Roof ridge
+Roof tiles
+Roof truss
+Rosette
+Sash
+Sill
+Skylight
+Stiles
+Transom
+Trim
+Vault
+Wall sconce

@@ -35,7 +35,6 @@ Blue Lace Flower
 Boronia
 Bouvardia
 Boxwood African
-Diosma
 Buckthorn Variegated
 Buddleia
 Bupleurum
@@ -66,8 +65,8 @@ Cone Flower
 Consolida ambigua
 Convallaria
 Cordyline
-Cosmos
 Cornflower
+Cosmos
 Craspedia
 Curly Willow
 Cymbidium
@@ -82,6 +81,7 @@ Dendrobium Orchid
 Dianthus barbatus
 Dianthus caryophyllus
 Dianthus caryophyllus nana
+Diosma
 Erica spp
 Eucalyptus seeded
 Eucalyptus silver dollar
@@ -132,8 +132,8 @@ Lavandula
 Lavender
 Liatris
 Lilac
-Lily
 Lilly-of-the-Valley
+Lily
 Lily Casa Blanca
 Lily of the Field
 Lily of the Nile

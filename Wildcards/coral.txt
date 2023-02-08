@@ -1,21 +1,21 @@
+Black Coral
 Brain Coral
 Bubble Coral
-Finger Coral
-Star Coral
-Elkhorn Coral
-Fire Coral
-Mushroom Coral
-Staghorn Coral
-Table Coral
-Leaf Coral
-Lettuce Coral
 Cauliflower Coral
-Sea Fan Coral
-Sea Whip Coral
-Organ Pipe Coral
+Elkhorn Coral
+Finger Coral
+Fire Coral
 Gorgonian Coral
 Hydrozoan Coral
-Black Coral
-Zoanthid Coral
+Leaf Coral
+Lettuce Coral
+Mushroom Coral
+Organ Pipe Coral
 Scleractinian Coral
+Sea Fan Coral
+Sea Whip Coral
 Soft Coral
+Staghorn Coral
+Star Coral
+Table Coral
+Zoanthid Coral

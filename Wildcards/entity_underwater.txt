@@ -1,43 +1,41 @@
-Fish
-Octopus
-Squid
-Jellyfish
-Shrimp
-Lobster
-Starfish
-Crab
-Sea turtle
-Dolphin
-Whale
-Seal
-Eel
-Stingray
 Anemone
-Sea serpent
-Sea urchin
+Anglerfish Abomination
 Clam
-Oyster
-Sponge
-Sea horse
-Sea Monster
+Crab
+Cthulhu
+Deep-Sea Devil
+Dolphin
+Eel
+Electric Eel Monster
+Fish
+Giant Squid
+Hydra
+Jellyfish
+Jellyfish Monster
+Killer Jellyfish
 Kraken
 Leviathan
+Lobster
 Megalodon
-Jellyfish Monster
-Giant Squid
-Siren
 Mermaid
 Nessie
-Underwater Golem
-Hydra
+Octopus
 Octopus Beast
+Oyster
+Sea horse
+Sea Monster
+Sea serpent
+Sea turtle
+Sea urchin
 Seahorse Dragon
-Whale Shark
-Killer Jellyfish
-Electric Eel Monster
-Cthulhu
+Seal
+Shrimp
+Siren
+Sponge
+Squid
+Starfish
+Stingray
+Underwater Golem
 Underwater Zombie
-Deep-Sea Devil
-Anglerfish Abomination
-
-
+Whale
+Whale Shark

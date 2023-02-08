@@ -1,35 +1,35 @@
 Bathrobe
-Kimono
 Caftan
-Poncho
-Shawl collar robe
-Hooded robe
-Dressing gown
-Maxi robe
-Terry cloth robe
-Satin robe
-Silk robe
-Flannel robe
-Waffle weave robe
-Sauna robe
-Spa robe
-Turkish towel robe
-Hotel robe
-Monk's robe
-Japanese yukata
-Hapa zome dyed robe
-Robes of the Jedi Order
-Sorcerer's Apprentice Robe
-Wizards' Robes
 Death Eaters' Robes
+Dressing gown
+Flannel robe
+Hapa zome dyed robe
 Harry Potter's Invisibility Cloak
-The Cloak of Levitation
-The Cloak of Invisibility
+Hooded robe
+Hotel robe
+Japanese yukata
+Kimono
+Maxi robe
+Monk's robe
+Poncho
 Robes of the Archmagi
-The Dark Lord's Robes
-The Grand Wizard's Robe
-The Necromancer's Robe
-The Enchanter's Robe
-The Conjurer's Robe
+Robes of the Jedi Order
+Satin robe
+Sauna robe
+Shawl collar robe
+Silk robe
+Sorcerer's Apprentice Robe
+Spa robe
+Terry cloth robe
 The Archmage's Robe
+The Cloak of Invisibility
+The Cloak of Levitation
+The Conjurer's Robe
+The Dark Lord's Robes
+The Enchanter's Robe
+The Grand Wizard's Robe
 The Illusionist's Robe
+The Necromancer's Robe
+Turkish towel robe
+Waffle weave robe
+Wizards' Robes

@@ -6,6 +6,7 @@ High Definition
 Full HD
 UHD
 Ultra HD
+2K resolution
 4K resolution
 8k resolution
 16k resolution

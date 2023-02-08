@@ -1,14 +1,14 @@
-Grandfather clock
-Cuckoo clock
-Mantel clock
-Wall clock
-Table clock
 Alarm clock
-Carpenter's clock
-Kitchen clock
 Analog clock
-Digital clock
-Sun Dial clock
-Sand clock
 Atomic clock
+Carpenter's clock
 Chiming clock
+Cuckoo clock
+Digital clock
+Grandfather clock
+Kitchen clock
+Mantel clock
+Sand clock
+Sun Dial clock
+Table clock
+Wall clock

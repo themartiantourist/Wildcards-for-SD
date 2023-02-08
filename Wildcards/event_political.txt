@@ -1,25 +1,23 @@
-Revolution
-revolt
-insurrection
-uprising
-coup
-mutiny
-insurgency
-resistance
-overthrow
-rebellion
-civil war
-war of independence
-uprising
-demonstration
-strike
 civil unrest
-protest
-dissent
-unrest
-conflict
+civil war
 clashes
-rally
-march
+conflict
+coup
 demonstration
+dissent
+insurgency
+insurrection
+march
 movement
+mutiny
+overthrow
+protest
+rally
+rebellion
+resistance
+revolt
+Revolution
+strike
+unrest
+uprising
+war of independence

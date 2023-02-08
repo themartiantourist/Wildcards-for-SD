@@ -1,19 +1,19 @@
-Millennium Falcon
-Nostromo
-Enterprise spaceship
-Serenity spaceship
-Battlestar Galactica
-U.S.S. Voyager
 Argo spaceship
-Red Dwarf spaceship
-Death Star
-Hubble Deep Space Telescope
-Halcyon
-Nebuchadnezzar
-Discovery One
-Hyperion
-Event Horizon
 Babylon 5
-Starbug
+Battlestar Galactica
+Death Star
+Discovery One
+Enterprise spaceship
+Event Horizon
+Halcyon
+Hubble Deep Space Telescope
+Hyperion
+Millennium Falcon
+Nebuchadnezzar
+Nostromo
 Orbiting HQ of Doom
+Red Dwarf spaceship
+Serenity spaceship
 Spacecraft Jupiter 2
+Starbug
+U.S.S. Voyager

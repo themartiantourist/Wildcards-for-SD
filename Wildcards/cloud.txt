@@ -1,8 +1,8 @@
-Cumulus clouds
-Stratus clouds
-Cirrus clouds
 Altocumulus clouds
 Altostratus clouds
-Nimbostratus clouds
+Cirrus clouds
 Cumulonimbus clouds
+Cumulus clouds
+Nimbostratus clouds
 Stratocumulus clouds
+Stratus clouds

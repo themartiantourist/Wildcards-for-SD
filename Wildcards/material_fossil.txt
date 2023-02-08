@@ -1,17 +1,17 @@
-Fossil
-Petrified wood
 Amber
-Fossil shells
-Shark teeth
-Dinosaur bones
-Fossilized plants
-Trilobites
 Ammonites
-Mosasaur bones
-Fossilized insects
-Coprolites
-Gastropod Shells
 Brachiopod Shells
-Fossilized Coral
-Shark Teeth
+Coprolites
+Dinosaur bones
 Dinosaur Bones
+Fossil
+Fossil shells
+Fossilized Coral
+Fossilized insects
+Fossilized plants
+Gastropod Shells
+Mosasaur bones
+Petrified wood
+Shark teeth
+Shark Teeth
+Trilobites

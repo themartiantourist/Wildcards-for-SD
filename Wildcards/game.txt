@@ -1,59 +1,57 @@
-Celeste
-Hollow Knight
-Stardew Valley
-Terraria
-Minecraft
-Dead Cells
-Hotline Miami
-The Witness
-Super Meat Boy
-Undertale
-Inside video game
-Papers, Please
-Axiom Verge
-FTL: Faster Than Light
-Firewatch
-Monument Valley
-Journey video game
-Ori and the Blind Forest
-Transistor video game
-Limbo
-The Unfinished Swan
-Rayman Legends
-Shovel Knight
-Don't Starve
-Katana ZERO
-Little Nightmares
-Ori and the Will of the Wisps
-Hollow Knight
-Ico
-Beyond Good and Evil
-Okami
-Guacamelee!
-Cuphead
-Braid
-Hotline Miami
-World of Goo
-Grim Fandango
-Thomas Was Alone
-Bastion
-Overwatch
-Red Dead Redemption 2
-Horizon Zero Dawn
-Control
-The Witcher 3: Wild Hunt
-Death Stranding
-Grand Theft Auto V
 Assassin's Creed Valhalla
-Crysis 3
-Metro Exodus
-Shadow of the Tomb Raider
-Gears 5
-Resident Evil 2 Remake
+Axiom Verge
+Bastion
 Battlefield V
-God of War
-Forza Horizon 4
-The Division 2
-Detroit: Become Human
+Beyond Good and Evil
+Braid
 Call of Duty: Modern Warfare
+Celeste
+Control
+Crysis 3
+Cuphead
+Dead Cells
+Death Stranding
+Detroit: Become Human
+Don't Starve
+Firewatch
+Forza Horizon 4
+FTL: Faster Than Light
+Gears 5
+God of War
+Grand Theft Auto V
+Grim Fandango
+Guacamelee!
+Hollow Knight
+Horizon Zero Dawn
+Hotline Miami
+Ico
+Inside video game
+Journey video game
+Katana ZERO
+Limbo
+Little Nightmares
 Marvel's Spider-Man
+Metro Exodus
+Minecraft
+Monument Valley
+Okami
+Ori and the Blind Forest
+Ori and the Will of the Wisps
+Overwatch
+Papers, Please
+Rayman Legends
+Red Dead Redemption 2
+Resident Evil 2 Remake
+Shadow of the Tomb Raider
+Shovel Knight
+Stardew Valley
+Super Meat Boy
+Terraria
+The Division 2
+The Unfinished Swan
+The Witcher 3: Wild Hunt
+The Witness
+Thomas Was Alone
+Transistor video game
+Undertale
+World of Goo

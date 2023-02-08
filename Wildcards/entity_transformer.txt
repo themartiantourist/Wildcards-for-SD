@@ -1,175 +1,131 @@
-Optimus Prime
-Megatron
+Abominus
+Afterburner
+Apeface
+Astro Magnus
+Astrotrain
+Beachcomber
+Black Zarak
+Blades
+Blast Off
+Blaster
+Blastwave
+Blitzwing
+Blot
+Bombshell
+Brawl
+Brawn
+Breakdown
+Bruticus
+Bugbite
 Bumblebee
-Ratchet
+Buzzsaw
+Chase
+Computron
+Cosmos
+Cutthroat
+Cyclonus
+Dai Atlas
+Dead End
+Dinobot
+Dirge
+Dragstrip
+Eject
+Flameout
+Fracture
+Frenzy
+Gaihawk
+Galvatron
+Gears
+Godbomber
+Goldbug
+Goryu
+Grimlock
+Heatseeker
+Heavy Load
+Hound
+Hun-Gurrr
+Icespick
 Ironhide
 Jazz
-Starscream
-Soundwave
-Shockwave
-Skywarp
-Thundercracker
-Trailbreaker
-Hound
-Wheeljack
-Blaster
-Grimlock
-Slag
-Snarl
-Swoop
-Sludge
-Dinobot
-Ultra Magnus
-Rodimus Prime
-Kup
-Cyclonus
-Galvatron
-Scourge
-Blitzwing
-Astrotrain
-Ramjet
-Dirge
-Thrust
-Misfire
 Kickback
-Shrapnel
-Bombshell
-Bugbite
-Ravage
-Rumble
-Frenzy
+Kup
+Lander
 Laserbeak
-Ravage
-Buzzsaw
-Ratbat
-Squawktalk
-Overkill
-Slash
-Cutthroat
-Wildrider
-Dead End
-Breakdown
-Dragstrip
-Motormaster
-Menasor
-Predaking
-Bruticus
-Abominus
-Computron
-Scattershot
-Nosecone
-Afterburner
+Leozak
 Lightspeed
-Strafe
-Scrounge
-Cyclonus
-Tidal Wave
+Megatron
+Menasor
+Mindwipe
+Misfire
+Motormaster
+Nosecone
+Oil Slick
 Onslaught
-Blast Off
-Vortex
-Brawl
-Swindle
-Blastwave
+Optimus Prime
+Outback
+Overkill
+Overlord
+Pipes
+Powerglide
+Predaking
+Prowl
+Quake
+Ramhorn
+Ramjet
+Rampage
+Ratbat
+Ratchet
+Ravage
+Red Alert
+Rewind
+Rippersnapper
+Roadbuster
+Rodimus Prime
+Rollbar
+Rumble
+Scattershot
+Scavenger
+Scorponok
+Scourge
+Scrounge
+Seawing
+Shockwave
+Shrapnel
+Sideswipe
+Sinnertwin
+Sixshot
+Skullcruncher
 Sky Shadow
 Sky-Byte
-Oil Slick
-Wreck-Gar
-Scavenger
-Heavy Load
-Roadbuster
-Topspin
-Twin Twist
-Blades
-Apeface
+Skywarp
+Slag
+Slash
+Sludge
 Snapdragon
-Mindwipe
-Scorponok
-Zarak
-Black Zarak
-Trypticon
-Sixshot
-Astro Magnus
-Overlord
-Godbomber
-Lander
-Leozak
-Gaihawk
-Goryu
-Dai Atlas
+Snarl
 Sonic Bomber
-Sinnertwin
-Rippersnapper
-Hun-Gurrr
-Cutthroat
-Blot
-Sinnertwin
-Skullcruncher
-Ravage
-Rampage
-Tentakil
-Seawing
-Quake
-Tidal Wave
-Ramhorn
+Soundwave
+Squawktalk
+Starscream
 Steeljaw
-Eject
-Rewind
-Ramjet
-Thrust
-Dirge
-Kickback
-Bombshell
-Shrapnel
-Misfire
-Blitzwing
-Skywarp
-Thundercracker
-Starscream
-Soundwave
-Shockwave
-Rumble
-Frenzy
-Laserbeak
-Buzzsaw
-Ravage
-Fracture
-Flameout
-Heatseeker
-Icespick
-Throttlebots
-Chase
-Rollbar
-Wideload
-Pipes
-Goldbug
-Brawn
-Outback
-Gears
-Beachcomber
-Cosmos
-Warpath
-Blades
-Powerglide
-Sideswipe
+Strafe
 Sunstreaker
-Red Alert
-Ironhide
-Ratchet
-Bumblebee
-Jazz
-Prowl
-Optimus Prime
-Megatron
-Shockwave
-Skywarp
+Swindle
+Swoop
+Tentakil
+Throttlebots
+Thrust
 Thundercracker
-Starscream
-Soundwave
-Hound
-Wheeljack
-Blaster
-Brawn
-Beachcomber
-Cosmos
-Gears
+Tidal Wave
+Topspin
+Trailbreaker
+Trypticon
+Twin Twist
+Ultra Magnus
+Vortex
 Warpath
+Wheeljack
+Wideload
+Wildrider
+Wreck-Gar
+Zarak

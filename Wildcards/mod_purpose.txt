@@ -1,9 +1,9 @@
-functional
-practical
-utilitarian
-artistic
 aesthetic
+artistic
+educational
+functional
 ornamental
+practical
 recreational
 scientific
-educational
+utilitarian

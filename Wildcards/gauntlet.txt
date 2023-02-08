@@ -1,19 +1,19 @@
-Infinity Gauntlet
-Force Gauntlet
-Plasma Glove
-Laser Gauntlet
-Energy Glove
-Lightning Fist
-Ionic Gauntlet
-Elemental Grip
-Photon Punching Mitt
-Quantum Glove
-Nano Gauntlet
-Gravity Glove
-Hyperspace Gauntlet
 Atomic Knuckle
-Magnetic Mitt
-Radiant Handwrap
-Cybernetic Cuff
 Chrono Gauntlet
+Cybernetic Cuff
+Elemental Grip
+Energy Glove
+Force Gauntlet
+Gravity Glove
 Hyper-Blast Glove
+Hyperspace Gauntlet
+Infinity Gauntlet
+Ionic Gauntlet
+Laser Gauntlet
+Lightning Fist
+Magnetic Mitt
+Nano Gauntlet
+Photon Punching Mitt
+Plasma Glove
+Quantum Glove
+Radiant Handwrap

@@ -1,52 +1,52 @@
-Automotive repair workshop
-Carpentry workshop
-Welding workshop
-Woodworking workshop
-Metalworking workshop
-Electronics repair workshop
-Plumbing workshop
-Masonry workshop
-Roofing workshop
-Painting workshop
-Blacksmithing workshop
-Pottery workshop
-Jewelry making workshop
-Boat building workshop
-Leatherworking workshop
-Furniture making workshop
-Clock making workshop
-Bladesmithing workshop
-Taxidermy workshop
-Wood carving workshop
-Marquetry workshop
-Bookbinding workshop
-Blacksmith's forge
-Alchemy lab
-Enchanter's den
-Leatherworker's studio
-Glassblower's kiln
-Arcanist's laboratory
-Weaver's loom
-Jeweler's bench
-Carpenter's workshop
-Cooper's workshop
-Sculptor's studio
-Herbalist's garden
-Fletcher's studio
-Smithy's forge
-Runecarver's chambers
-Cybernetics Workshop
-Robotics Workshop
-Nanotech Workshop
-Spacecraft Assembly Bay
-AI Research Lab
-Time Travel Research Station
-Genetic Engineering Facility
 Advanced Propulsion Workshop
+AI Research Lab
+Alchemy lab
+Arcanist's laboratory
 Augmented Reality Lab
-Quantum Computing Lab
-Energy Weapons Development Center
-Virtual Reality Development Studio
+Automotive repair workshop
+Blacksmith's forge
+Blacksmithing workshop
+Bladesmithing workshop
+Boat building workshop
+Bookbinding workshop
+Carpenter's workshop
+Carpentry workshop
+Clock making workshop
+Cooper's workshop
 Cyber-Security Operations Center
+Cybernetics Workshop
+Electronics repair workshop
+Enchanter's den
+Energy Weapons Development Center
+Fletcher's studio
+Furniture making workshop
+Genetic Engineering Facility
+Glassblower's kiln
+Herbalist's garden
 Intergalactic Communication Hub
+Jeweler's bench
+Jewelry making workshop
+Leatherworker's studio
+Leatherworking workshop
+Marquetry workshop
+Masonry workshop
+Metalworking workshop
+Nanotech Workshop
+Painting workshop
+Plumbing workshop
+Pottery workshop
+Quantum Computing Lab
+Robotics Workshop
+Roofing workshop
+Runecarver's chambers
+Sculptor's studio
+Smithy's forge
 Space Mining Equipment Workshop
+Spacecraft Assembly Bay
+Taxidermy workshop
+Time Travel Research Station
+Virtual Reality Development Studio
+Weaver's loom
+Welding workshop
+Wood carving workshop
+Woodworking workshop

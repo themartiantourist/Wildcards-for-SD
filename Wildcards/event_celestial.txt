@@ -1,17 +1,17 @@
-Solar Eclipse
-Lunar Eclipse
-Supermoon
-Blood Moon
-Meteor Shower
-Comet
-Transit of a Planet
 Annular Solar Eclipse
-Partial Solar Eclipse
-Total Lunar Eclipse
-Penumbral Lunar Eclipse
 Asteroid Flyby
+Blood Moon
 Celestial Conjunction
-Solar Flare
+Comet
 Coronal Mass Ejection
+Lunar Eclipse
+Meteor Shower
 Northern Lights (Aurora Borealis)
+Partial Solar Eclipse
+Penumbral Lunar Eclipse
+Solar Eclipse
+Solar Flare
 Southern Lights (Aurora Australis)
+Supermoon
+Total Lunar Eclipse
+Transit of a Planet

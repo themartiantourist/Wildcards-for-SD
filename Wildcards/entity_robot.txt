@@ -1,10 +1,14 @@
 Asimo
 Atlas
+B-9
 Baxter
 Boston Dynamics Spot
+C-3PO
+Data
 Epson HC-20
 EveR-1
 GAKUTEN-Oh
+HAL 9000
 Honda P2
 HRP-2
 I-Fairy
@@ -14,22 +18,18 @@ NAO
 Pepper
 PR2
 QRIO
+R2-D2
 Repliee Q1
 Sarcos Guardian XO
+T-1000 Terminator
+T-800 Terminator
+T-850 Terminator
+T-X Terminator
+The Iron Giant
+The Terminator
 Toy Robo Wall-E
 Vstone Robovie R3
 Wabian
+Wall-E
 WowWee RoboRaptor
 Zeno R25
-HAL 9000
-The Terminator
-T-800 Terminator
-T-850 Terminator
-T-1000 Terminator
-T-X Terminator
-R2-D2
-C-3PO
-The Iron Giant
-Wall-E
-B-9
-Data

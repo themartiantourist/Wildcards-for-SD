@@ -1,17 +1,17 @@
-Keyboard
-Mouse
-Monitor
-Speakers
-Headphones
-Webcam
-Microphone
-Printer
-Scanner
-Joystick
+CD/DVD Drive
+External Hard Drive
+Flash Drive
 Gaming Mouse
 Graphics Tablet
-External Hard Drive
-USB Drive
-Flash Drive
+Headphones
+Joystick
+Keyboard
 Memory Card
-CD/DVD Drive
+Microphone
+Monitor
+Mouse
+Printer
+Scanner
+Speakers
+USB Drive
+Webcam

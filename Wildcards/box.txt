@@ -1,41 +1,40 @@
-Chest
-Trunk
-Crate
-Jewel box
-Reward crate
-Reward chest
-Treasure chest
-Treasure crate
-Music box
-Memory box
-Shadow box
-Decorative box
-Display box
-Toolbox
-Storage box
-Gift box
-Keepsake box
-Tissue box
-Lunchbox
-Medicine box
-Cigar box
-Sewing box
-Tackle box
-Lockbox
-Jewelry box
 Ammunition box
-Medicine box
-Document box
-Cash box
-Presentation box
 Archive box
-Treasure box
-Shipping box
-Toy box
-Photo box
-Time capsule
-Map box
+Archive storage
 Art box
 Book box
-Archive storage
+Cash box
+Chest
+Cigar box
+Crate
+Decorative box
+Display box
+Document box
+Gift box
+Jewel box
+Jewelry box
+Keepsake box
+Lockbox
+Lunchbox
+Map box
+Medicine box
+Memory box
+Music box
 Pencil box
+Photo box
+Presentation box
+Reward chest
+Reward crate
+Sewing box
+Shadow box
+Shipping box
+Storage box
+Tackle box
+Time capsule
+Tissue box
+Toolbox
+Toy box
+Treasure box
+Treasure chest
+Treasure crate
+Trunk

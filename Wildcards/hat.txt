@@ -1,17 +1,17 @@
-Top Hat
-Witch's Hat
-The Mad Hatter's Hat
-The Bowler Hat
-The Cowboy Hat
-The Fez
-The Fedora
-The Boater Hat
 The Beret
 The Bicorne
+The Boater Hat
+The Bowler Hat
+The Cowboy Hat
+The Fedora
+The Fez
+The Flat Cap
+The Mad Hatter's Hat
+The Pith Helmet
+The Sombrero
 The Stetson
 The Tam o' Shanter
-The Tricorne
-The Sombrero
 The Topi
-The Pith Helmet
-The Flat Cap
+The Tricorne
+Top Hat
+Witch's Hat

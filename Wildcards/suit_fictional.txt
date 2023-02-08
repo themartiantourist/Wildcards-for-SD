@@ -1,33 +1,33 @@
-Power Armor
-H.E.L.M
-Neurolink Implant
 Augmented Reality Glasses
-Smartwatch of Tomorrow
-Quantum Bands
-Bionic Contact Lenses
-Bio-Suit
-Invisibility Cloak
-Brain Implant
-Gravity Boots
-Teleportation Belt
-Neural Network Implant
-Flexible Display Suit
-Time-Turner
-Exosuit
-Space suit
-Hazmat suit
-Protective suit
 Battle suit
-Mechanized suit
-Power suit
-Stealth suit
-Flight suit
-Radiation suit
-Heat-resistant suit
-Underwater suit
-Combat suit
+Bio-Suit
+Bionic Contact Lenses
 Body armor
-Riot gear
+Brain Implant
+Combat suit
+Exosuit
+Flexible Display Suit
+Flight suit
+Gravity Boots
+H.E.L.M
 Hazmat protective clothing
-Protective clothing for extreme weather
+Hazmat suit
+Heat-resistant suit
+Invisibility Cloak
+Mechanized suit
+Neural Network Implant
+Neurolink Implant
+Power Armor
+Power suit
 Pressure suit
+Protective clothing for extreme weather
+Protective suit
+Quantum Bands
+Radiation suit
+Riot gear
+Smartwatch of Tomorrow
+Space suit
+Stealth suit
+Teleportation Belt
+Time-Turner
+Underwater suit

@@ -1,66 +1,64 @@
-Stephan Martiniere
-Sana Takeda
-Michael Kutsche
-Jock
-Liam Brazier
-Conceptopolis
-Kekai Kotaki
-John J. Park
-Marko Djurdjevic
-Iain McCaig
-Simon Stålenhag
-Spoon-Tamago
-Yang Liu
-Jin Kim
-Tara McPherson
-Donglu Yu
-Kaitlynn Peavler
-Peter Chan
-Ryan Church
 Aaron Beck
-Heather Madden
-Kevin Tong
-Chris Appelhans
-Serge Birault
-Cesar da Silva
-Michel Gagné
-Lauren YS
-Armand Serrano
-Tom Robinson
-Cris Velasco
-Katsumi Nakamura
-Dan mumford
 Alena Aenami
 Alex Ross
-Dave Rapoza
-Tim Lahan
-Olly Moss
-Jermaine Rogers
-Mike Mitchell
-Florey
-Phantom City Creative
-Kevin Tong
-Scott Derby
-Jason Edmiston
-Randy Ortiz
-Jeff Boyes
-Ghoulish Gary Pullin
-Justin Erickson
-Ian McQue
-Cătălin Mitulescu
-David McLeod
-Rob Hodgson
-Koji Watanabe
-Matt Dawson
-Rob Hodgson
-Anthony Geoffroy
-Joshua M. Smith
-Eric Jordan
-Petros Afshar
-Dave McCaig
-Mikko Walamies
-Ryan Putnam
-Christophe Vacher
-Greg Rutkowski
 Alphonse Mucha
+Anthony Geoffroy
+Armand Serrano
 Beeple
+Cătălin Mitulescu
+Cesar da Silva
+Chris Appelhans
+Christophe Vacher
+Conceptopolis
+Cris Velasco
+Dan mumford
+Dave McCaig
+Dave Rapoza
+David McLeod
+Donglu Yu
+Eric Jordan
+Florey
+Ghoulish Gary Pullin
+Greg Rutkowski
+Heather Madden
+Iain McCaig
+Ian McQue
+Jason Edmiston
+Jeff Boyes
+Jermaine Rogers
+Jin Kim
+Jock
+John J. Park
+Joshua M. Smith
+Justin Erickson
+Kaitlynn Peavler
+Katsumi Nakamura
+Kekai Kotaki
+Kevin Tong
+Koji Watanabe
+Lauren YS
+Liam Brazier
+Marko Djurdjevic
+Matt Dawson
+Michael Kutsche
+Michel Gagné
+Mike Mitchell
+Mikko Walamies
+Olly Moss
+Peter Chan
+Petros Afshar
+Phantom City Creative
+Randy Ortiz
+Rob Hodgson
+Ryan Church
+Ryan Putnam
+Sana Takeda
+Scott Derby
+Serge Birault
+Simon Stålenhag
+Spoon-Tamago
+Stephan Martiniere
+Tara McPherson
+Tim Lahan
+Tom Robinson
+Yang Liu

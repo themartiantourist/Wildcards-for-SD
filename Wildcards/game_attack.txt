@@ -1,65 +1,65 @@
-Fire breathing attack
-Water bending attack
-Mirror illusions attack
-Ice blasting attack
-Shadow manipulation attack
-Laser beams attack
-Electric shock attack
-Energy bolts attack
-Force fields attack
-Mind control attack
-Psychicokinetic push attack
-Time manipulation attack
-Gravity manipulation attack
-Magic spells attack
-Wind control attack
-Poison claws attack
-Sonic boom attack
-Acid spray attack
-Dark magic attack
-Light magic attack
-Teleportation attack
-Elemental manipulation attack
-Dimension shifting attack
-Telekinesis attack
-Invisibility attack
-Reality warping attack
-Fireball attack
-Poison mist attack
-Ice spikes attack
-Thunder strike attack
-Arcane magic attack
-Shadow claws attack
-Energy blast attack
-Force push attack
-Poison dart attack
-Ice shard attack
-Chain lightning attack
-Magic shield attack
-Mind reading attack
-Psionic blast attack
-Dragon fire attack
 Acid arrow attack
-Shadow bolt attack
-Energy wave attack
-Fire arrow attack
-Ice beam attack
-Wind gust attack
-Magic missile attack
-Firestorm attack
-Ice storm attack
+Acid spray attack
+Arcane magic attack
 Blast attack
 Bolt attack
+Chain lightning attack
+Dark magic attack
+Dimension shifting attack
+Dragon fire attack
+Electric shock attack
+Elemental manipulation attack
+Energy blast attack
+Energy bolts attack
+Energy wave attack
 Explosion attack
+Fire arrow attack
+Fire breathing attack
+Fireball attack
+Firestorm attack
 Flame Wave attack
+Force fields attack
+Force push attack
 Frost Nova attack
+Gravity manipulation attack
 Ground Pound attack
 Hurricane attack
+Ice beam attack
+Ice blasting attack
+Ice shard attack
+Ice spikes attack
+Ice storm attack
+Invisibility attack
+Laser beams attack
+Light magic attack
+Magic missile attack
+Magic shield attack
+Magic spells attack
 Meteor Strike attack
+Mind control attack
+Mind reading attack
+Mirror illusions attack
 Nova Blast attack
-Raging Inferno attack
+Poison claws attack
+Poison dart attack
+Poison mist attack
+Psionic blast attack
+Psychicokinetic push attack
 Radiant Blast attack
+Raging Inferno attack
+Reality warping attack
+Shadow bolt attack
+Shadow claws attack
+Shadow manipulation attack
 Shockwave attack
+Sonic boom attack
+Telekinesis attack
+Teleportation attack
+Thunder strike attack
 Thunder Strike attack
 Tidal Wave attack
+Time manipulation attack
+Water bending attack
 Wave of Force attack
+Wind control attack
+Wind gust attack

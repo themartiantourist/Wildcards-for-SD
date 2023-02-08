@@ -1,45 +1,45 @@
-Sunlight
-Bonfire
-Incandescent Light Bulb
-LED Light
-Fluorescent Light
-Halogen Light
-Candle
-Oil Lamp
-Kerosene Lamp
-Gas Lamp
-Solar Lamp
-Bioluminescent Light
-Luminescent Paint
-Fireflies
-Bioluminescent Algae
-Glowworms
-Chemical Light Stick
-Black Light
-Xenon Light
-Laser Light
-Infrared Light
-Ultraviolet Light
-Arc Lamp
-Chandelier
-Candelabra
-Sconce
-Pendant light
-Flush mount light
-Track light
-Recessed light
-Wall lamp
-Table lamp
-Floor lamp
-Desk lamp
-Ceiling light
-Vanity light
-Spot light
-LED strip light
-Torchiere
 Accent light
+Arc Lamp
+Bioluminescent Algae
+Bioluminescent Light
+Black Light
+Bonfire
+Candelabra
+Candle
+Ceiling light
+Chandelier
+Chemical Light Stick
 Crystal light
-Lantern
-Uplight
+Desk lamp
 Downlight
+Fireflies
+Floor lamp
+Fluorescent Light
+Flush mount light
+Gas Lamp
+Glowworms
+Halogen Light
+Incandescent Light Bulb
+Infrared Light
+Kerosene Lamp
+Lantern
+Laser Light
+LED Light
+LED strip light
+Luminescent Paint
+Oil Lamp
+Pendant light
 Picture light
+Recessed light
+Sconce
+Solar Lamp
+Spot light
+Sunlight
+Table lamp
+Torchiere
+Track light
+Ultraviolet Light
+Uplight
+Vanity light
+Wall lamp
+Xenon Light

@@ -1,54 +1,54 @@
-Supernova
+Alien First Contact
+Alien Invasion
+Black Hole Collision
 Black Hole Merger
-Gamma Ray Burst
-Star Formation
-Nebula Formation
-Cosmic Inflation
+Celestial Cataclysm
+Cosmic Apocalypse
 Cosmic Background Radiation
-Quasar Accretion
-Galaxy Collision
-Dark Matter Formation
-High Energy Cosmic Rays
-Cosmic Strings
-Cosmic Microwave Background
-Cosmic Web
-Gravitational Lensing
+Cosmic Conflux
 Cosmic Density Fluctuations
-Cosmic Phase Transition
-Cosmic Topological Defects
+Cosmic Inflation
 Cosmic Magnetic Fields
 Cosmic Magnetic Reconnection
-Wormhole opening
-Black Hole Collision
-Quantum Singularity
-Nebula Explosion
-Interdimensional Rift
-Space-Time Anomaly
-Alien Invasion
-Alien First Contact
-Intergalactic War
-Cosmic Apocalypse
-Planet-Killer Asteroid Impact
-Celestial Cataclysm
-Reality-Warping Event
-Hypernova
-Gravity Well Collapse
-Singularity Swarm
-Stellar Convergence
-Interstellar Paradox
-Warp Disruption
-Gravity Wave Ripple
-Galactic Tide Pool
-Cosmic Conflux
-Nebular Resonance
-Quantum Fluctuation
-Wormhole Nexus
-Interdimensional Portal
-Exotic Particle Storm
-Dark Energy Anomaly
-Tachyon Burst
-Singularity Overload
-Stellar Carving
-Gravitational Vortex
+Cosmic Microwave Background
 Cosmic Nexus
+Cosmic Phase Transition
+Cosmic Strings
+Cosmic Topological Defects
+Cosmic Web
+Dark Energy Anomaly
+Dark Matter Formation
+Exotic Particle Storm
+Galactic Tide Pool
+Galaxy Collision
+Gamma Ray Burst
+Gravitational Lensing
+Gravitational Vortex
+Gravity Wave Ripple
+Gravity Well Collapse
+High Energy Cosmic Rays
+Hypernova
+Interdimensional Portal
+Interdimensional Rift
+Intergalactic War
+Interstellar Paradox
+Nebula Explosion
+Nebula Formation
 Nebular Reconvergence
+Nebular Resonance
+Planet-Killer Asteroid Impact
+Quantum Fluctuation
+Quantum Singularity
+Quasar Accretion
+Reality-Warping Event
+Singularity Overload
+Singularity Swarm
+Space-Time Anomaly
+Star Formation
+Stellar Carving
+Stellar Convergence
+Supernova
+Tachyon Burst
+Warp Disruption
+Wormhole Nexus
+Wormhole opening

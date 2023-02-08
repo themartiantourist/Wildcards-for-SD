@@ -1,34 +1,34 @@
-Piano
-Guitar
-Drums
-Bass Guitar
-Violin
-Cello
-Trumpet
-Saxophone
-Flute
-Clarinet
-Oboe
-Bassoon
-French Horn
-Trombone
-Viola
-Harp
-Banjo
-Mandolin
-Ukulele
 Accordion
-Harmonica
-Maracas
-Castanets
-Triangle
-Tambourine
+Banjo
+Bass Guitar
+Bassoon
 Bongos
+Castanets
+Cello
+Clarinet
 Congas
-Djembe
-Snare Drum
 Cymbals
-Xylophone
+Djembe
+Drums
+Flute
+French Horn
+Guitar
+Harmonica
+Harp
+Mandolin
+Maracas
 Marimba
-Vibraphone
+Oboe
+Piano
+Saxophone
+Snare Drum
 Steel Drums
+Tambourine
+Triangle
+Trombone
+Trumpet
+Ukulele
+Vibraphone
+Viola
+Violin
+Xylophone

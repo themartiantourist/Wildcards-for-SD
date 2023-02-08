@@ -1,57 +1,57 @@
-Poltergeist
 Apparition
-Specter
-Phantom
-Wraith
-Haunt
+Apparitional experience
+Astral ghost
 Banshee
-Shadow ghost
+Changeling
+Cipher ghost
 Crisis ghost
-Elemental ghost
+Cursed ghost
 Demonic ghost
+Doppelganger
+Earthbound spirit
+Ecto-mist
+Ectoplasmic entity
+Ectoplasmic ghost
+Ectoplasmic manifestation
+Ectoplasmic residual
+Ectoplasmic specter
+Ectoplasmic wraith
+Eidolon
+Elemental ghost
+Elemental spirit
+Ethereal entity
 Friendly ghost
-Revenant
+Ghostly apparition
+Ghostly figure
+Ghostly presence
+Haunt
+Imprint ghost
 Incubus/Succubus
 Jinn
-Changeling
-Doppelganger
-Imprint ghost
-Residual ghost
-Cursed ghost
-Vengeful ghost
-Protective ghost
-Ectoplasmic ghost
-Phantasm
-Astral ghost
-Eidolon
-Wandering spirit
-Earthbound spirit
-Ghostly apparition
 Night terror
-Elemental spirit
-Phantasmagoria
 Orb
-Ecto-mist
-Phantasmal force
-Cipher ghost
-Shadow entity
-Ghostly figure
-Phantom entity
-Ghostly presence
-Spirited entity
-Ethereal entity
-Ectoplasmic entity
-Ectoplasmic manifestation
+Phantasm
+Phantasmagoria
 Phantasmal apparition
-Spectral entity
-Poltergeist activity
-Phantasmic force
-Apparitional experience
-Ectoplasmic residual
-Phantasmic manifestation
+Phantasmal force
 Phantasmic entity
-Ectoplasmic specter
-Spectral manifestation
+Phantasmic force
+Phantasmic manifestation
+Phantom
 Phantom apparition
+Phantom entity
+Poltergeist
+Poltergeist activity
+Protective ghost
+Residual ghost
+Revenant
+Shadow entity
+Shadow ghost
+Specter
+Spectral entity
+Spectral manifestation
+Spirited entity
+Vengeful ghost
+Wandering spirit
+Wraith
 Wraithlike entity
-Ectoplasmic wraith

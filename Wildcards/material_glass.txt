@@ -1,13 +1,13 @@
-Glass
-Soda-lime glass
-Lead glass
-Borosilicate glass
-Fused silica glass
 Aluminosilicate glass
-Flint glass
+Borosilicate glass
 colored glass
-Tempered glass
-Laminated glass
-Stained glass
-Textured glass
+Flint glass
+Fused silica glass
+Glass
 Glass block
+Laminated glass
+Lead glass
+Soda-lime glass
+Stained glass
+Tempered glass
+Textured glass

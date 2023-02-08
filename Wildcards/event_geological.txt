@@ -1,20 +1,19 @@
-Earthquake
-Volcanic Eruption
-Landslide
-Tsunami
-Mudslide
 Avalanche
-Rockfall
-Subsidence
-Ground Subsidence
-Ground Subsidence
-Soil Liquefaction
-Sinkhole Formation
 Debris Flow
-Glacial Retreat
+Earthquake
 Glacial Advance
-Tectonic Plate Movement
+Glacial Retreat
+Ground Subsidence
+Lahar
+Landslide
 Magnetic Reversal
 Meteorite Impact
+Mudslide
+Rockfall
+Sinkhole Formation
+Soil Liquefaction
+Subsidence
+Tectonic Plate Movement
+Tsunami
 Volcanic Ash Fall
-Lahar
+Volcanic Eruption

@@ -1,31 +1,26 @@
-Sirius
-Vega
-Alpha Centauri
-Betelgeuse
-Aldebaran
-Arcturus
-Regulus
-Antares
-Capella
-Rigel
-Proxima Centauri
-Pollux
-Deneb
-Altair
-Betelgeuse
-Sol system
-Cygnus X-1
-Epsilon Eridani
-Sirius
 51 Pegasi
-Sirius Black
-Zeta 2 Reticuli
-Iapetus
-Tau Ceti
-Omicron Persei 8
-Rigel
-Barnard's Star
-Arcturus
-Altair IV
+Aldebaran
 Alderaan
+Alpha Centauri
+Altair
+Altair IV
+Antares
+Arcturus
+Barnard's Star
 Betelgeuse
+Capella
+Cygnus X-1
+Deneb
+Epsilon Eridani
+Iapetus
+Omicron Persei 8
+Pollux
+Proxima Centauri
+Regulus
+Rigel
+Sirius
+Sirius Black
+Sol system
+Tau Ceti
+Vega
+Zeta 2 Reticuli

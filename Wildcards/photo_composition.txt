@@ -1,29 +1,31 @@
-Rule of Thirds
-Depth of Field
-Leading Lines
-Balance
-Symmetry
-Perspective
-Diagonal Lines
-Negative Space
-Light and Shadow
-Focal Point
-Golden Ratio
-Triangles
-Frame within a Frame
-Fill the Frame
-Radial Balance
-Simplicity
-Proximity
-Repetition
-Patterns
-Viewpoint
-Odd Numbers
-Foreground Interest
 Asymmetry
-Golden Triangle
-S-Curve
+Balance
+Bokeh
 Converging Lines
-Isolation
-Implied Lines
+Depth of Field
+Diagonal Lines
+DoF
 Emphasis
+Fill the Frame
+Focal Point
+Foreground Interest
+Frame within a Frame
+Golden Ratio
+Golden Triangle
+Implied Lines
+Isolation
+Leading Lines
+Light and Shadow
+Negative Space
+Odd Numbers
+Patterns
+Perspective
+Proximity
+Radial Balance
+Repetition
+Rule of Thirds
+S-Curve
+Simplicity
+Symmetry
+Triangles
+Viewpoint

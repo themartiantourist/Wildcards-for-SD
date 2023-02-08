@@ -1,22 +1,21 @@
-Elvish Urn
-Dragonfire Bowl
-Phoenix Censer
-Unicorn Horn Chalice
-Necromancer's Cauldron
-Enchanted Goblet
-Siren's Conch
-Sorcerer's Chalice
-Grail of the Gods
+Alchemist's Flask
+Amulet of the Moon
+Angelic Urn
 Crystal Vial of Life
+Cursed Vase
+Dark Lord's Chalice
+Divine Chalice of the Heavens
+Dragonfire Bowl
+Elvish Urn
+Enchanted Goblet
+Grail of the Gods
+Moonstone Vial
+Necromancer's Cauldron
 Orichalcum Chalice
 Phoenix Ashes Urn
-Amulet of the Moon
-Cursed Vase
+Phoenix Censer
 Portal Censer
-Dark Lord's Chalice
+Siren's Conch
+Sorcerer's Chalice
 Spellbound Goblet
-Moonstone Vial
-Divine Chalice of the Heavens
-Alchemist's Flask
-Angelic Urn
-
+Unicorn Horn Chalice

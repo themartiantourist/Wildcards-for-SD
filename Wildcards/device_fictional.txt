@@ -1,65 +1,65 @@
-Faster-than-light (FTL) travel
-Warp device
-Teleportation device
-Time travel device
-Holo-deck
-Cybernetic device
-Virtual reality device
-Laser device
-Plasma weapon
-Force field generator
-Nanotechnology device
-Replicator device
-Transporter device
-Deflector shield
-Cloaking device
-Neural implant
-Cybernetic implant
-Cybernetic enhancement
-Cybernetic prosthetic
-Cloning technology
-Quantum computers
-Artificial gravity generator
 Antigravity technology
-Quantum Disruptor
-Subspace Portal
-Cosmic Anomaly Detector
-Wormhole Generator
-Interdimensional Bridge
-Singularity Accelerator
-Spatial Vortex Stabilizer
-Temporal Flux Controller
-Black Hole Inducer
-Gravitational Distortion Amplifier
-Reality Nexus Point
-Nebula Catalyst
-Stellar Manipulator
-Quantum Entangler
-Intergalactic Warp Drive
-Space-Time Fluctuation Regulator
-Universe Expansion Engine
-Gravity Wave Emitter
-N-Dimension Matrix
-Parallel Dimension Converger
-Interstellar Rift Resonator
-Hyperspace Compression Chamber
-Photon Acceleration Array
-Cosmic Force Field Generator
-Quantum Leap Matrix
-Space-Time Disrupter
-Particle Flux Accelerator
-Black Hole Inducer
-Proton-Neutron Collider
-Parallel Dimension Generator
-Warp Core Reactor
-Cosmic Strings Resonator
-Star Field Amplifier
-Galactica Displacement Engine
-Energy Vortex Harnesser
-Hypernova Induction Station
 Antimatter Pulse Cannon
-Nebula Projector
-Gravity Well Stabilizer
+Artificial gravity generator
+Black Hole Inducer
+Black Hole Inducer
 Celestial Vortex Transmitter
+Cloaking device
+Cloning technology
+Cosmic Anomaly Detector
+Cosmic Force Field Generator
+Cosmic Strings Resonator
+Cybernetic device
+Cybernetic enhancement
+Cybernetic implant
+Cybernetic prosthetic
+Deflector shield
+Energy Vortex Harnesser
+Faster-than-light (FTL) travel
+Force field generator
+Galactica Displacement Engine
+Gravitational Distortion Amplifier
+Gravity Wave Emitter
+Gravity Well Stabilizer
+Holo-deck
+Hypernova Induction Station
+Hyperspace Compression Chamber
+Interdimensional Bridge
 Interdimensional Nexus Hub
+Intergalactic Warp Drive
+Interstellar Rift Resonator
+Laser device
+N-Dimension Matrix
+Nanotechnology device
+Nebula Catalyst
+Nebula Projector
+Neural implant
+Parallel Dimension Converger
+Parallel Dimension Generator
+Particle Flux Accelerator
+Photon Acceleration Array
+Plasma weapon
+Proton-Neutron Collider
+Quantum computers
+Quantum Disruptor
+Quantum Entangler
+Quantum Leap Matrix
+Reality Nexus Point
+Replicator device
+Singularity Accelerator
+Space-Time Disrupter
+Space-Time Fluctuation Regulator
+Spatial Vortex Stabilizer
+Star Field Amplifier
+Stellar Manipulator
+Subspace Portal
+Teleportation device
 Temporal Anomaly Generator
+Temporal Flux Controller
+Time travel device
+Transporter device
+Universe Expansion Engine
+Virtual reality device
+Warp Core Reactor
+Warp device
+Wormhole Generator

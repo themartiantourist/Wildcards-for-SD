@@ -1,19 +1,19 @@
-Light aircraft
-Transport aircraft
-Regional aircraft
-Business jet
-Military aircraft
-Glider
-Ultralight aircraft
-Drones
-Hot air balloon
-Blimp
-Parachute aircraft
-Hang glider
-Biplane
-Triplane
-Quadplane
 Amphibious aircraft
+Biplane
+Blimp
+Business jet
+Drones
+Glider
+Hang glider
+Hot air balloon
+Light aircraft
+Military aircraft
+Parachute aircraft
+Quadplane
+Regional aircraft
 Spaceplane
-Supersonic aircraft
 Stealth aircraft
+Supersonic aircraft
+Transport aircraft
+Triplane
+Ultralight aircraft

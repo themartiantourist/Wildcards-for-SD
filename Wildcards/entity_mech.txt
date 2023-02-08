@@ -1,24 +1,24 @@
-Golem
-Mech
-Elemental
-Construct
-Automaton
-Cybernetic Organism
-Mecha
-Automated Sentry
 Animate Golem
 Artificial Being
-Mechanical Monster
-Synthetic Entity
-Machine Spirit
-Titan
-Mechanoid
-CyberGolem
+Automated Sentry
+Automaton
 Biomech
-Cybersaur
-TechnoGolem
-Syntheticon
-Robo-beast
 Boss monster
-Mini-boss monster
+Construct
+CyberGolem
+Cybernetic Organism
+Cybersaur
+Elemental
 Final boss monster
+Golem
+Machine Spirit
+Mech
+Mecha
+Mechanical Monster
+Mechanoid
+Mini-boss monster
+Robo-beast
+Synthetic Entity
+Syntheticon
+TechnoGolem
+Titan

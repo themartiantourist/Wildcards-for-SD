@@ -2,29 +2,28 @@ Accountant
 Architect
 Artist
 Athlete
+Carpenter
 Chef
+Construction Worker
 Dentist
 Designer
+Doctor
+Electrician
 Engineer
 Firefighter
 Hair Stylist
-Nurse
+Lawyer
 Mechanic
-Chef
+Nurse
 Photographer
+Plumber
 Police Officer
+Receptionist
 Salesperson
+Scientist
+Secretary
+Social Worker
+Surveyor
 Teacher
 Veterinarian
-Lawyer
-Doctor
-Construction Worker
-Receptionist
-Scientist
-Surveyor
 Writer
-Social Worker
-Secretary
-Electrician
-Plumber
-Carpenter

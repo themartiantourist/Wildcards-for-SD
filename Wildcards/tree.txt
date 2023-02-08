@@ -1,30 +1,30 @@
-Oak tree
-Maple tree
-Pine tree
-Birch tree
-Elm tree
-Cherry tree
-Willow tree
 Apple tree
+Bamboo tree
+Beech tree
+Birch tree
+Cedar tree
+Cherry tree
 Dogwood tree
+Douglas Fir tree
+Elm tree
+Eucalyptus tree
+Ficus tree
+Ginkgo tree
+Holly tree
+Horse Chestnut tree
+Jacaranda tree
+Lime tree
 Magnolia tree
+Manzanita tree
+Maple tree
+Oak tree
+Palm tree
+Pine tree
+Poplar tree
 Redwood tree
 Sequoia tree
-Douglas Fir tree
 Spruce tree
-Cedar tree
 Sycamore tree
-Poplar tree
-Holly tree
-Yew tree
-Palm tree
-Bamboo tree
-Eucalyptus tree
-Jacaranda tree
-Ginkgo tree
-Lime tree
-Horse Chestnut tree
-Beech tree
 Teak tree
-Ficus tree
-Manzanita tree
+Willow tree
+Yew tree

@@ -1,58 +1,58 @@
-Pyramid
-Dome
-Tower
-Obelisk
-Spire
-Monolith
-Ziggurat
-Temple
-Citadel
-Henge
-Nexus
 Accelerator
-Nexus Array
-Crystal Matrix
 Antenna Array
-Portal
-Energy Well
-Gravity Engine
-Dyson Sphere
-Space Elevator
-Hydroponic Bay
-Stasis Chamber
-Wormhole Terminal
-Star Map
-Bio-dome
+Anteverse Conduit
+Aquatic Temple
 Asteroid Base
-Landing Pad
-Research Center
-Mining Colony
-terraforming Hub
-Energy Collection Grid
-Storage Depot
+Bio-dome
+Celestia Platform
+Citadel
 Command Center
-Hangar Bay
+Crystal Matrix
+Dark Vortex
 Defense Grid
+Dome
+Dyson Sphere
+Energy Collection Grid
+Energy Well
 Experimental Lab
-Genetic Modification Center
 Factory Complex
-Xenosphere
-Protean Hive
+Genetic Modification Center
+Gravity Engine
+Hangar Bay
+Henge
+Hydroponic Bay
+Landing Pad
+Lunar Outpost
+Meteor Reef
+Mining Colony
+Monolith
+Nexus
+Nexus Array
+Null Portal
+Obelisk
 Omicron Station
 Polaris Array
-Aquatic Temple
-Celestia Platform
-The Void Beacon
+Portal
+Protean Hive
+Pyramid
+Research Center
 Shadow Nexus
-Anteverse Conduit
+Space Elevator
+Spire
 Star Forge
-Meteor Reef
-Lunar Outpost
-Null Portal
+Star Map
+Stasis Chamber
 Stellar Core
-Dark Vortex
-Vortex Matrix
-The Nebula Hub
-The Infinite Spiral
+Storage Depot
+Temple
+terraforming Hub
 The Celestial Nexus
+The Infinite Spiral
+The Nebula Hub
 The Singularity Relay
+The Void Beacon
+Tower
+Vortex Matrix
+Wormhole Terminal
+Xenosphere
+Ziggurat

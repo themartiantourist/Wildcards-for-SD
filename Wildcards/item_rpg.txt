@@ -15,8 +15,8 @@ Ancient Branch
 Ancient Ent
 Ancient Fragment of Ruins
 Ancient Hourglass
-Ancient Leaf Circlet
 Ancient Leaf
+Ancient Leaf Circlet
 Ancient Token
 Ancient Tree Bow
 Ancient Tree Rifle
@@ -24,10 +24,10 @@ Ancient Tree Staff
 Ancient Tree Sword
 Ancient Writings
 Antimatter
+Archangel
 Archangel Halo
 Archangel Token
 Archangel Wings
-Archangel
 Armageddon
 Armor of Corruption
 Armor of Darkness
@@ -37,6 +37,7 @@ Armor of Grudge
 Armor of Poison
 Arrows
 Assassin Katars
+Bag
 Bag of coins
 Bag of Corruption
 Bag of Demise
@@ -50,7 +51,6 @@ Bag of Mighty Strength
 Bag of Mother Nature
 Bag of Strength
 Bag of Universe
-Bag
 Bat Wings
 Bear Fur Cloak
 Beast Hunter
@@ -69,8 +69,8 @@ Blood Essence
 Blood Orb
 Bloodseeker Plates
 Bloodsoul Plates
-Bloodstone Plates
 Bloodstone
+Bloodstone Plates
 Bloodstorm
 Bloodsword Tepethia
 Bloody Armor
@@ -79,8 +79,8 @@ Bloody Hatred
 Bloody Helm
 Bloody Robe
 Bolts
-Bone Dragon Token
 Bone Dragon
+Bone Dragon Token
 Bone Necklace
 Book of fireball
 Book of Inferno
@@ -105,10 +105,10 @@ Cape of Insatiable Hunger
 Cape of the Count
 Cape of the Dead
 Cauldron
+Chaos
 Chaos Dagger
 Chaos Magic Stone
 Chaos Pickaxe
-Chaos
 Charm
 Chaser
 Chest of tresures
@@ -120,8 +120,8 @@ Cloak of the Fallen Shadows
 Clown Token
 Coin of Effort
 Cold Ring of Death
-Corrupt Angel Token
 Corrupt Angel
+Corrupt Angel Token
 Corrupt Creations
 Corrupt Crystal Fragment
 Corrupt Crystal Wings
@@ -129,10 +129,10 @@ Corrupt Token
 Corruptor
 Cosmic Reaper
 Cosmic Star
+Count
 Count Token
 Count's Memento
 Count's Old Cape
-Count
 Crab Armor
 Creation of the Sky and Earth
 Crescendo of Madness
@@ -160,8 +160,8 @@ Crown of Transcendance
 Crystal Golem Token
 Curse of Greed
 Cursed Mask
-Dagger of Night
 Dagger
+Dagger of Night
 Dark Crystal
 Dark Matter
 Dark Wings
@@ -177,8 +177,8 @@ Deep Robe
 Deep Staff
 Deep Sword
 Demon Hunter
-Demon Lord Token
 Demon Lord
+Demon Lord Token
 Demonic Fist
 Devil Blaster
 Devil Chaser
@@ -221,9 +221,9 @@ Eternal Flame
 Eternal Rose
 Eternal Winter
 Ethereal Dagger
+Everfrost
 Everfrost Gauntlet
 Everfrost Token
-Everfrost
 Everfrostbane
 Eye of the Abyss
 Eye of the Flame Lord
@@ -296,8 +296,8 @@ Green Magic Stone
 Grim Heart
 Grim Visage
 Grimoire of Darkness
-Guardian Angel Token
 Guardian Angel
+Guardian Angel Token
 Guardian of the Skies
 Guardian Ring
 Guardian Token
@@ -344,10 +344,10 @@ Horn of God
 Horn of Lightning God
 Horns of Destruction
 Hungry Bat Wings
+Hydra
 Hydra Poison Tooth
 Hydra Scale
 Hydra Token
-Hydra
 Hydro Buster
 Icicle Bow
 Icicle Storm
@@ -382,9 +382,9 @@ Magic Sword
 Magical Horn
 Magical Token
 Mana Ancient
+Mana Heart
 Mana Heart Frost
 Mana Heart Large
-Mana Heart
 Mana Orb
 Mark of Lord
 Mark of Sin
@@ -406,9 +406,9 @@ Niflheim
 Nightmare Rod
 Nightmare Token
 Oath of Courage
+Orb
 Orb of Oblivion
 Orb of the Deep Sea
-Orb
 Orichalcum
 Parasitic Staff
 Parasitic Sword
@@ -433,8 +433,8 @@ Pure Crystal Wings
 Pure Steel
 Purefrost Gauntlet
 Purelight Armor
-Purified Water of Nature
 Purified Water
+Purified Water of Nature
 Radiance of the One
 Ragnaar
 Rainbow Crystal Golem Token
@@ -454,6 +454,7 @@ Rifle of Darkness
 Rifle of Deep Sea
 Rifle of Flame
 Rifle of Poison
+Ring
 Ring of Composure
 Ring of Count
 Ring of Darkness
@@ -482,7 +483,6 @@ Ring of the Reaper
 Ring of the Sage
 Ring of the Storm
 Ring of Time
-Ring
 Ripple Snow
 Robe of Archlich
 Robe of Corruption
@@ -569,9 +569,9 @@ Stash of Gold
 Steel of God
 Stone Plates
 Storage Expansion Coupon
+Storm
 Storm Headdress
 Storm Reaver
-Storm
 Sturdy Bag
 Sword of Corruption
 Sword of Crimson Flame
@@ -593,9 +593,9 @@ The Armor of Despair
 The Armor of Lamentation
 The Armor of Ruin
 The Armor of the Reaper
+The Bloodspear
 The Bloodspear of Domination
 The Bloodspear of Requiem
-The Bloodspear
 The Bloodsword of Domination
 The Bow of Certain Destruction
 The Bow of Divine Fury
@@ -711,8 +711,8 @@ Wing Frame
 Wing of Sea
 Wings of Blood Lord
 Wings of Cosmos
-Wings of Death Token
 Wings of Death
+Wings of Death Token
 Wings of Flame Lord
 Wings of Frost Lord
 Wings of Fury

@@ -1,33 +1,33 @@
-Lego
-Playmobil
-Hot Wheels
-Matchbox
-Army Men
-NERF
-Barbie
-Fisher Price Little People
-My Little Pony
-Monster High
 American Girl
-Sylvanian Families
-Micro Machines
-Littlest Pet Shop
-Power Rangers
-Transformers
-Star Wars Action Figures
+Army Men
+Bakugan
+Barbie
+Beyblades
+Blythe Dolls
+Bratz
+Dollhouse Miniatures
+Fisher Price Little People
+Furby
 GI Joe
 He-Man and the Masters of the Universe
-Bakugan
-Beyblades
-Zhu Zhu Pets
-Pinypon
-Tamagotchi
-Furby
-Bratz
-Pullips
-Blythe Dolls
-Dollhouse Miniatures
-Model Trains
-Model Cars
+Hot Wheels
+Lego
+Littlest Pet Shop
+Matchbox
+Micro Machines
 Model Airplanes
 Model Boats
+Model Cars
+Model Trains
+Monster High
+My Little Pony
+NERF
+Pinypon
+Playmobil
+Power Rangers
+Pullips
+Star Wars Action Figures
+Sylvanian Families
+Tamagotchi
+Transformers
+Zhu Zhu Pets

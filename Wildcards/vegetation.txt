@@ -1,32 +1,31 @@
-Trees
-Shrubs
-Bushes
-Grass
-Ferns
-Wildflowers
-Herbaceous plants
-Succulents
-Cacti
-Vines
-Ferns
 Algae
-Mosses
 Alpine vegetation
 Arctic tundra vegetation
+Bushes
+Cacti
 Chaparral vegetation
 Coniferous forest vegetation
-Desert vegetation
 Deciduous forest vegetation
+Desert vegetation
+Ferns
+Grass
 Grassland vegetation
+Herbaceous plants
 Mangrove vegetation
 Mediterranean vegetation
 Montane forest vegetation
+Mosses
 Rainforest vegetation
 Scrub vegetation
+Shrubs
+Succulents
 Temperate deciduous forest vegetation
 Temperate evergreen forest vegetation
-Tundra vegetation
-Tropical rainforest vegetation
-Wetland vegetation
-Xeric vegetation
 Temperate grassland vegetation
+Trees
+Tropical rainforest vegetation
+Tundra vegetation
+Vines
+Wetland vegetation
+Wildflowers
+Xeric vegetation

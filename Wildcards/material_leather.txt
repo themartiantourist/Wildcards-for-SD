@@ -1,14 +1,14 @@
-Bonded leather
-Genuine leather
-Synthetic leather
-Patent leather
-Faux leather
-Nubuck leather
-Suede leather
 Aniline leather
-Corrected grain leather
-Split grain leather
-Vegetable-tanned leather
+Bonded leather
 Chrome-tanned leather
+Corrected grain leather
+Faux leather
+Genuine leather
+Nubuck leather
+Patent leather
 Rawhide leather
+Split grain leather
+Suede leather
+Synthetic leather
 Top grain leather
+Vegetable-tanned leather

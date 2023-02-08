@@ -1,29 +1,29 @@
-Magneto
-The Joker
-Dr. Doom
-Loki
-Lex Luthor
-Green Goblin
-Darkseid
-Venom
 Apocalypse
-Shredder
-M. Bison
-Whiplash
-Kingpin
-Zoltar
 Brainiac
-Doctor Octopus
-Ra's al Ghul
-The Mandarin
-Sinestro
 Carnage
-The Riddler
-Two-Face
-The Penguin
-The Kingpin of Crime
-Sabretooth
+Darkseid
+Doctor Octopus
+Dr. Doom
+Green Goblin
+Kingpin
+Lex Luthor
+Loki
+M. Bison
+Magneto
 Mystique
+Ra's al Ghul
+Sabretooth
+Shredder
+Sinestro
+The Joker
+The Kingpin of Crime
 The Leader
-The Sandman
+The Mandarin
 The Master
+The Penguin
+The Riddler
+The Sandman
+Two-Face
+Venom
+Whiplash
+Zoltar

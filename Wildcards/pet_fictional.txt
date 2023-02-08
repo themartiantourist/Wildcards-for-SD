@@ -1,23 +1,23 @@
-Scooby-Doo
-Gizmo
-Groot
-Chewbacca
-Totoro
-Eeyore
-K-9
-Pikachu
-Kermit
-Sonic
-Slinky
-Mr. Snuffleupagus
 Barney Rubble's Dino
 Bart Simpson's Pig
 Brian Griffin
-Ziggy
-Lassie
-Snoopy
-Dobby
-Toto
-Fluffy
-Duck
+Chewbacca
 Crookshanks
+Dobby
+Duck
+Eeyore
+Fluffy
+Gizmo
+Groot
+K-9
+Kermit
+Lassie
+Mr. Snuffleupagus
+Pikachu
+Scooby-Doo
+Slinky
+Snoopy
+Sonic
+Toto
+Totoro
+Ziggy

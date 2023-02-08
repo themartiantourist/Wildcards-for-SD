@@ -1,32 +1,32 @@
-Helmet
-Mask
-Goggle
-Glove
-Boot
-Shoe
-Sandal
-Flipper
-Earplug
-Headphone
-Wristband
-Belt
-Harnesse
-Suspender
-Sleeve
-Shin guard
-Knee pad
-Elbow pad
-Shoulder pad
-Chest plate
+Anklet
 Backpack
-Fanny pack
-Hydration pack
 Bag
+Belt
+Boot
+Bracelet
+Chest plate
+Earplug
+Earring
+Elbow pad
+Fanny pack
+Flipper
+Glove
+Goggle
+Harnesse
+Headphone
+Helmet
+Hydration pack
+Knee pad
+Mask
+Necklace
 Purse
+Ring
+Sandal
+Shin guard
+Shoe
+Shoulder pad
+Sleeve
+Suspender
 Wallet
 Watch
-Bracelet
-Ring
-Necklace
-Earring
-Anklet
+Wristband

@@ -1,72 +1,72 @@
-Park
-Beach
-Street
-Village
-Town
-City
-Metropolis
-Suburb
-Hamlet
-Township
-Rural Community
-Ghost Town
-Frontier Settlement
-Fortified Settlement
 Agricultural Settlement
-Mining Settlement
-Coastal Settlement
-River Settlement
-Hill Settlement
-Highland Settlement
-Mountain Settlement
-Desert Settlement
-Jungle Settlement.
-Skyscraper
-Tower
-Monument
-Bridge
-Basilica
-Citadel
-Palace
-Castle
-Villa
-Mansion
-Bungalow
-Cottage
-Lodge
-Hut
-Cabin
-Yurt
-Teepee
-Igloo
-Pueblo
-Lighthouse
-Windmill
-Observatory
-Aqueduct
-Bazaar
-Pavilion
-Arcade
-Portico
-Rotunda
-Colosseum
 Amphitheater
-Ziggurat
-Pyramid
-Minaret
-Stupa
-Pagoda
-Kaaba
-Parthenon
-Taj Mahal
 Angkor Wat
-Machu Picchu
-Stonehenge
-Great Wall of China
-Pyramids of Giza
-Leaning Tower of Pisa
+Aqueduct
+Arcade
+Basilica
+Bazaar
+Beach
+Bridge
 Buckingham Palace
-White House
-Sydney Opera House
-Eiffel Tower
+Bungalow
 Burj Khalifa
+Cabin
+Castle
+Citadel
+City
+Coastal Settlement
+Colosseum
+Cottage
+Desert Settlement
+Eiffel Tower
+Fortified Settlement
+Frontier Settlement
+Ghost Town
+Great Wall of China
+Hamlet
+Highland Settlement
+Hill Settlement
+Hut
+Igloo
+Jungle Settlement.
+Kaaba
+Leaning Tower of Pisa
+Lighthouse
+Lodge
+Machu Picchu
+Mansion
+Metropolis
+Minaret
+Mining Settlement
+Monument
+Mountain Settlement
+Observatory
+Pagoda
+Palace
+Park
+Parthenon
+Pavilion
+Portico
+Pueblo
+Pyramid
+Pyramids of Giza
+River Settlement
+Rotunda
+Rural Community
+Skyscraper
+Stonehenge
+Street
+Stupa
+Suburb
+Sydney Opera House
+Taj Mahal
+Teepee
+Tower
+Town
+Township
+Villa
+Village
+White House
+Windmill
+Yurt
+Ziggurat

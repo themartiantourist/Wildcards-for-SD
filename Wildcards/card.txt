@@ -1,8 +1,8 @@
 Business card
-Playing card
-Tarot card
 Collectible card
-Trading card
 Memory card
+Playing card
 Solitaire card
+Tarot card
+Trading card
 Uno card

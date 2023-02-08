@@ -1,45 +1,44 @@
-Pixelated
-Low-Poly
-Blocky
-Voxelated
-Voxel
-Voxel-based
-Cubic
-Geometric
-Polygonal
-Textured
-Stylized
-Low-Res
-High-res
-Procedural
-Rasterized
-Raster graphics
-Bitmap
-Vector graphics
-Isometric
-Pixellated
-Simplified
-De-Pixelated
-Faceted
-Retina display
-Ray Tracing
-RTX (Real-Time Ray Tracing)
-Path Tracing
-Global Illumination
-Shadows
+3D
 Ambient Occlusion
+Bitmap
+Blocky
+Bounding Volume Hierarchy (BVH)
+Cubic
+De-Pixelated
+Dynamic lighting
+Faceted
+Geometric
+Global Illumination
+GPU (Graphics Processing Unit)
+Hardware Acceleration
+HDR rendering
+High-res
+Isometric
+Light Propagation Volumes (LPVs)
+Low-Poly
+Low-Res
+Motion capture
+Path Tracing
+Photon Mapping
+Pixelated
+Pixellated
+Polygonal
+Procedural
+Raster graphics
+Rasterization
+Rasterized
+Ray Tracing
 Reflection
 Refraction
-Photon Mapping
-Bounding Volume Hierarchy (BVH)
-Rasterization
-Hardware Acceleration
+Retina display
+RTX (Real-Time Ray Tracing)
 Shader
-GPU (Graphics Processing Unit)
-Light Propagation Volumes (LPVs)
-3D
-Textured
+Shadows
+Simplified
 Skeletal animation
-Motion capture
-Dynamic lighting
-HDR rendering
+Stylized
+Textured
+Vector graphics
+Voxel
+Voxel-based
+Voxelated

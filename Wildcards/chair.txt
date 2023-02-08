@@ -1,20 +1,20 @@
-Armchair
-Lounge chair
-Rocking chair
-Recliner
-Dining chair
-Office chair
-Wingback chair
 Accent chair
-Folding chair
-Bean bag chair
 Adirondack chair
-Club chair
-Papasan chair
-Bean bag sofa chair
-Director's chair
-Deck chair
-Chaise lounge
-Stool
+Armchair
 Barstool
+Bean bag chair
+Bean bag sofa chair
+Chaise lounge
+Club chair
 Counter stool
+Deck chair
+Dining chair
+Director's chair
+Folding chair
+Lounge chair
+Office chair
+Papasan chair
+Recliner
+Rocking chair
+Stool
+Wingback chair

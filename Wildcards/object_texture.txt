@@ -1,10 +1,10 @@
-Smooth texture
-Rough texture
-Soft texture
-Hard texture
-Silky texture
 Bumpy texture
 Coarse texture
-Velvet texture
 Fluffy texture
+Hard texture
+Rough texture
+Silky texture
 Slimy texture
+Smooth texture
+Soft texture
+Velvet texture

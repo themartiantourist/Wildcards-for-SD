@@ -1,38 +1,38 @@
-Sliding window
-Casement window
-Double-hung window
-Bay window
-Picture window
+Arched window
 Awning window
-Jalousie window
-Tilt and turn window
-Hopper window
+Bay window
+Casement window
+Crystal window
+Dimensional window
+Double-hung window
+Energy efficient window
 Fixed window
-Transom window
-Skylight window
+Frosted glass window
+Gothic window
+Hopper window
+Hurricane impact window
+Jalousie window
+Leaded glass window
+Low-e window
+Magic window
+Mirrored glass window
+Picture window
+Portal
+Privacy glass window
+Reality window
 Roof window window
 Round window
-Arched window
-Gothic window
-Stained glass window
-Leaded glass window
-Frosted glass window
-Privacy glass window
-Mirrored glass window
-Tinted glass window
-Thermally broken window
-Low-e window
-Energy efficient window
 Security window
-Hurricane impact window
-Soundproof window
+Skylight window
+Sliding window
 Smart window
-Portal
-Warp gate
-Stargate
+Soundproof window
 Space window
-Crystal window
-Magic window
+Stained glass window
+Stargate
+Thermally broken window
+Tilt and turn window
 Time window
-Reality window
-Dimensional window
+Tinted glass window
+Transom window
+Warp gate

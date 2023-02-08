@@ -1,23 +1,23 @@
-Plastic
-Polymer
-Synthetic rubber
-Synthetic fiber
-nylon
-polyester
-Synthetic leather
-Synthetic resin
-epoxy resin
-polyurethane
-Synthetic stone
-Synthetic foam
-polystyrene
-Synthetic adhesive
-Synthetic metal
 aluminum alloy
-Synthetic composite
 carbon fiber
+epoxy resin
 fiberglass
-Synthetic ceramic
-Synthetic celluloid
-Synthetic diamond
+nylon
+Plastic
+polyester
+Polymer
+polystyrene
+polyurethane
 silicone
+Synthetic adhesive
+Synthetic celluloid
+Synthetic ceramic
+Synthetic composite
+Synthetic diamond
+Synthetic fiber
+Synthetic foam
+Synthetic leather
+Synthetic metal
+Synthetic resin
+Synthetic rubber
+Synthetic stone

@@ -2,55 +2,46 @@ Archery
 Arm wrestling
 Athletics
 Auto racing
+Badminton
 Base jumping
 Basketball
 Boxing
+Canoeing
 Cricket
 Cycling
 Darts
 Disc golf
+Diving
+Equestrian
+Fencing
+Field hockey
 Fishing
 Football
 Golf
+Gymnastics
+Handball
 Horse racing
 Hunting
+Judo
 Marathon
+Modern pentathlon
 Parkour
 Poker
 Pool
+Rowing
 Rugby
+Sailing
+Shooting
 Skateboarding
 Snowboarding
 Soccer
 Surfing
 Swimming
-Tennis
-Track and Field
-Triathlon
-Volleyball
-Archery
-Athletics
-Badminton
-Basketball
-Boxing
-Canoeing
-Cycling
-Diving
-Equestrian
-Fencing
-Field hockey
-Gymnastics
-Handball
-Judo
-Modern pentathlon
-Rowing
-Sailing
-Shooting
-Swimming
 Synchronized swimming
 Table tennis
 Taekwondo
 Tennis
+Track and Field
 Triathlon
 Volleyball
 Weightlifting

@@ -1,17 +1,17 @@
-Relativistic Time Dilation
-Quantum Tunneling
-The Uncertainty Principle
-The Photoelectric Effect
-The Compton Effect
-The Stern-Gerlach Experiment
-The Double-Slit Experiment
-Superconductivity
 Quantum Entanglement
-The Wave-Particle Duality
-The Bose-Einstein Condensation
-The Blackbody Radiation
-The Doppler Effect
-The Fibonacci Sequence in the Natural World
+Quantum Tunneling
+Relativistic Time Dilation
 Spontaneous Symmetry Breaking
-The Higgs Mechanism
+Superconductivity
+The Blackbody Radiation
+The Bose-Einstein Condensation
+The Compton Effect
 The Curie Point
+The Doppler Effect
+The Double-Slit Experiment
+The Fibonacci Sequence in the Natural World
+The Higgs Mechanism
+The Photoelectric Effect
+The Stern-Gerlach Experiment
+The Uncertainty Principle
+The Wave-Particle Duality

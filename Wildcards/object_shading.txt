@@ -1,10 +1,10 @@
-Flat shading
+Ambient occlusion shading
 Cel shading
+Flat shading
 Gouraud shading
 Phong shading
 Radial gradient shading
-Textured shading
-Ambient occlusion shading
 Soft shading
-Wireframe shading
 Subsurface scattering shading
+Textured shading
+Wireframe shading

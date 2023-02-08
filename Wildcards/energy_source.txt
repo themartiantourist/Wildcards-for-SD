@@ -1,44 +1,44 @@
+Abyss Energy
+Ancestral Energy
 Anti-Gravity Generator
 Arc Reactor
+Arcane Energy
+Celestial Energy
+Celestial Fire
+Cosmic Energy
 Cybertronian Energon
+Dark Energy
+Dark Matter
 Dejarik Energy Matrix
+Divine Energy
+Divine Fire
+Divine Light
+Dragonfire
+Eldritch Energy
+Elemental Energy
+Elemental Flames
+Ether
+Fae Energy
 Hyper-Flux Engine
+Infernal Energy
 Ionic Drive
 Isotope-8
 Kyber Crystals
+Life Energy
 Magitech
+Nether Energy
 Omega Energy
 Photon Cells
 Plasma Reactor
 Power Rings
+Pure Energy
+Shadow Energy
+Shadowflame
 Solaris
+Solaris Energy
+Starlight Energy
 Tesseract
 Void Energy
 Warp Core
 Zero Point Energy
 Zeta-Beam Generator
-Arcane Energy
-Dark Energy
-Ether
-Elemental Energy
-Celestial Energy
-Divine Energy
-Infernal Energy
-Shadow Energy
-Cosmic Energy
-Life Energy
-Eldritch Energy
-Divine Fire
-Dragonfire
-Shadowflame
-Elemental Flames
-Pure Energy
-Dark Matter
-Divine Light
-Celestial Fire
-Abyss Energy
-Ancestral Energy
-Fae Energy
-Solaris Energy
-Starlight Energy
-Nether Energy

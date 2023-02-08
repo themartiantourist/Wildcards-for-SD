@@ -1,4 +1,6 @@
 abalone
+açaí berries
+açaí juice
 acorn squash
 adzuki bean paste
 adzuki beans
@@ -41,8 +43,6 @@ autumn crocus
 avocado
 avocado oil
 avocados
-açaí berries
-açaí juice
 bacon
 bagel
 bake
@@ -472,6 +472,7 @@ passion fruit
 pasta
 pastry
 pate
+pâtés
 patty
 pattypan squash
 paw paw
@@ -541,7 +542,6 @@ pumpkin
 pumpkin seeds
 pumpkins
 punch
-pâtés
 quiche
 quinoa
 radicchio

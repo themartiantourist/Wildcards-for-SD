@@ -1,53 +1,53 @@
-Refrigerator
-Stove
-Oven
-Microwave
-Dishwasher
-Washing Machine
-Dryer
-Vacuum Cleaner
-Iron
-Blender
-Toaster
-Coffee Maker
-Food Processor
-Hand Mixer
-Kettle
-Rice Cooker
 Air Conditioner
+Air Purifier
+Blender
+Blow Dryer
+Coffee Maker
+Dehumidifier
+Dishwasher
+Dryer
+Electric Shaver
+Fan
+Food Processor
+Hair Dryer
+Hand Mixer
 Heater
 Humidifier
-Dehumidifier
-Fan
-Hair Dryer
-Electric Shaver
-Blow Dryer
-Stand Mixer
-Pressure Cooker
-Slow Cooker
-Water Purifier
-Air Purifier
-Robot Vacuum
-Smart Home Devices
-Thermostat
-Smart Speakers
-Smart TV
-Smart Locks
-Smart Lights
-Smart Blinds
-Smart Plugs
-Smart Thermostats
-Smart Doorbell
+Iron
 Jetson's Food-a-Rac-a-Cycle
+Kettle
+Microwave
+Oven
+Pressure Cooker
+Refrigerator
+Rice Cooker
+Robot Vacuum
+Slow Cooker
+Smart Blinds
+Smart Doorbell
+Smart Home Devices
+Smart Lights
+Smart Locks
+Smart Plugs
+Smart Speakers
+Smart Thermostats
+Smart TV
+Stand Mixer
+Stove
+The Auto-Dryer
+The Brain Extractor
+The Dehydrator
 The Flux Capacitor 
-The Replicator
 The Food Fabricator
 The Hygienator 
+The Memory Eraser
+The Replicator
 The Shrink Ray
-The Brain Extractor
+The Time Turner
 The Transmogrifier
 The What-If Machine
-The Dehydrator
-The Auto-Dryer
-The Memory Eraser
-The Time Turner
+Thermostat
+Toaster
+Vacuum Cleaner
+Washing Machine
+Water Purifier

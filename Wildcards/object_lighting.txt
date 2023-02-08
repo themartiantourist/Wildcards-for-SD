@@ -1,21 +1,21 @@
 Ambient lighting
-Diffuse lighting
-Directional lighting
-Specular lighting
-Reflected lighting
-Natural lighting
 Artificial lighting
-Three point lighting
-Low Light
-High Light
+Back Light
 Bright Light
+Diffuse lighting
 Dim Light
+Directional lighting
+Fill Light
 Flat Light
 Hard Light
-Soft Light
-Back Light
-Fill Light
+High Light
 Key Light
-Side Light
-Top Light
+Low Light
+Natural lighting
+Reflected lighting
 Rim Light
+Side Light
+Soft Light
+Specular lighting
+Three point lighting
+Top Light

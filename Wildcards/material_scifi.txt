@@ -1,24 +1,23 @@
 Adamantine
-Duranium
-Tritanium
-Dilithium
 Antimatter
-Zeronite
-Isodoped Element
-Neutronium
-Unobtanium
 Asgardian Metal
-Neutronium
-Unstable isotopes
+Cybernetic fluids
+Dilithium
+Duranium
+Hyperspace fuels
+Isodoped Element
 Nanobots
-Neurotoxins
-Neuroinhibitors
-Neurostimulants
-Neuroenhancers
 Neuro-active compounds
 Neuro-regenerative compounds
 Neuro-repair compounds
-Cybernetic fluids
+Neuroenhancers
+Neuroinhibitors
+Neurostimulants
+Neurotoxins
+Neutronium
 Quantum entanglement fluids
-Hyperspace fuels
+Tritanium
+Unobtanium
+Unstable isotopes
 Warp fuels
+Zeronite

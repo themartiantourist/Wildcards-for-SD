@@ -1,23 +1,23 @@
-Quartz
-Amethyst
-Rose Quartz
-Citrine
-Smoky Quartz
 Agate
-Jasper
-Tigers Eye
-Moonstone
-Turquoise
-Malachite
-Peridot
-Topaz
-Garnet
-Ruby
-Sapphire
-Emerald
-Diamond
-Tourmaline
+Amethyst
 Aquamarine
 Beryl
-Pyrite
+Citrine
+Diamond
+Emerald
 Fluorite
+Garnet
+Jasper
+Malachite
+Moonstone
+Peridot
+Pyrite
+Quartz
+Rose Quartz
+Ruby
+Sapphire
+Smoky Quartz
+Tigers Eye
+Topaz
+Tourmaline
+Turquoise

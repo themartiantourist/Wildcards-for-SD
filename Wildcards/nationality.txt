@@ -5,8 +5,6 @@ American
 Andorran
 Angolan
 Anguillan
-Citizen of Antigua
-Barbuda
 Argentine
 Armenian
 Australian
@@ -16,6 +14,7 @@ Bahamian
 Bahraini
 Bangladeshi
 Barbadian
+Barbuda
 Belarusian
 Belgian
 Belizean
@@ -23,8 +22,6 @@ Beninese
 Bermudian
 Bhutanese
 Bolivian
-Citizen of Bosnia
-Herzegovina
 Botswanan
 Brazilian
 British
@@ -34,6 +31,7 @@ Bulgarian
 Burkinan
 Burmese
 Burundian
+Caicos Islander
 Cambodian
 Cameroonian
 Canadian
@@ -43,6 +41,13 @@ Central African
 Chadian
 Chilean
 Chinese
+Citizen of Antigua
+Citizen of Bosnia
+Citizen of Guinea-Bissau
+Citizen of Kiribati
+Citizen of Seychelles
+Citizen of the Dominican Republic
+Citizen of Vanuatu
 Colombian
 Comoran
 Congolese (Congo)
@@ -58,7 +63,6 @@ Czech
 Danish
 Djiboutian
 Dominican
-Citizen of the Dominican Republic
 Dutch
 East Timorese
 Ecuadorean
@@ -85,10 +89,10 @@ Greenlandic
 Grenadian
 Guamanian
 Guatemalan
-Citizen of Guinea-Bissau
 Guinean
 Guyanese
 Haitian
+Herzegovina
 Honduran
 Hong Konger
 Hungarian
@@ -107,7 +111,6 @@ Jordanian
 Kazakh
 Kenyan
 Kittitian
-Citizen of Kiribati
 Kosovan
 Kuwaiti
 Kyrgyz
@@ -177,7 +180,6 @@ Saudi Arabian
 Scottish
 Senegalese
 Serbian
-Citizen of Seychelles
 Sierra Leonean
 Singaporean
 Slovak
@@ -210,14 +212,12 @@ Tunisian
 Turkish
 Turkmen
 Turks
-Caicos Islander
 Tuvaluan
 Ugandan
 Ukrainian
 Uruguayan
 Uzbek
 Vatican citizen
-Citizen of Vanuatu
 Venezuelan
 Vietnamese
 Vincentian

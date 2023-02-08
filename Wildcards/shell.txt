@@ -1,21 +1,20 @@
-Seashell
-Conch shell
 Abalone shell
-Cowrie shell
-Nautilus shell
-Turbo shell
-Olive shell
-Trochus shell
+Auger shell
 Chiton shell
 Cockle shell
-Limpet shell
-Auger shell
-Murex shell
-Scallop shell
-Whelk shell
-Moon shell
-Spondylus shell
+Conch shell
+Cowrie shell
 Helmet shell
-Triton shell
+Limpet shell
+Moon shell
+Murex shell
+Nautilus shell
+Olive shell
+Scallop shell
+Seashell
+Spondylus shell
 Strombus shell
-
+Triton shell
+Trochus shell
+Turbo shell
+Whelk shell

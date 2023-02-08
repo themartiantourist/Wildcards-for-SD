@@ -1,103 +1,103 @@
-Master Sword
-Keyblade
-Celestial Silver Sword
-Shadowstalker Blade
-Warlock Blade
-Avenger sword
-Soul Edge
-Power Sword
-Obsidian Greatsword
-Frostmourne
-Demon Slayer
-Twilight Sword
-Lightbringer
-Daedric Claymore
-Runeblade
-Soul Calibur
-Thunder Blade
-Excalibur
 Anduril
-Ice blade
-Masamune
-Buster Sword
-Oblivion
-Epee du Lion
-Razor Edge
-Phantom Sword
-Oblivion Blade
-Dark Repulser
-Goddess Sword
-Bident
-Kriegsmesser
-The Butcher's Sickle
-The Grandfather
-In-geom
-Azurewrath
-Starfire
-Jitan's Kamayari
 Arreat's Law
-Hellfire
-Immortal King's Call
-Natalya's Reflection
-Valla's Bequest
-Taeguk
-Cesar's Memento
-Scrimshaw
-The Oculus
-Ethereal Edge
-Baranar's Star
-The Cranium Basher
-The Gidbinn
-Gae Bolg
-The Grandfather
-Infinity sword
-The Calling
-The Defiant
-The Champions
-Thunderfury, Blessed Blade of the Windseeker
-Shadowmourne
-Sulfuras, Hand of Ragnaros
-Fangs of the Father
-Thori'dal, the Stars' Fury
-Val'anyr, Hammer of Ancient Kings
-Icebinder's Emblazoned Frostboar
-Thas'dorah, Legacy of the Windrunners
-Titanstrike
-The Twin Blades of Azzinoth
-Nesingwary's Seasoning
-Ragnarok sword
-Ultima Weapon
-Masamune sword
-Bahamut sword
-Leviathan sword
 Atomos sword
-Zodiac sword
-Tenebrium weapons
-Dawnbringer
-Stone of Courage
-Dreadfire
-The Entropy
-The Convergence
-The Omen
-The Unquenchable
-The Determinator
-Ebony Blade
-Dragonbone Sword
+Avenger sword
+Azurewrath
+Bahamut sword
+Baranar's Star
+Bident
 Blade of Woe
-Mehrune's Razor
-Dawnbreaker
-Miraak's Sword
-The Pale Blade
-The Longhammer
-The Dawnguard Rune Axe
+Buster Sword
+Celestial Silver Sword
+Cesar's Memento
 Chillrend
-The Long Sword
-The Scimitar
-The Katana
-The Greatsword
-The Zweihander
+Daedric Claymore
+Dark Repulser
+Dawnbreaker
+Dawnbringer
+Demon Slayer
+Dragonbone Sword
+Dreadfire
+Ebony Blade
+Epee du Lion
+Ethereal Edge
+Excalibur
+Fangs of the Father
+Frostmourne
+Gae Bolg
+Goddess Sword
+Hellfire
+Ice blade
+Icebinder's Emblazoned Frostboar
+Immortal King's Call
+In-geom
+Infinity sword
+Jitan's Kamayari
+Keyblade
+Kriegsmesser
+Leviathan sword
+Lightbringer
+Masamune
+Masamune sword
+Master Sword
+Mehrune's Razor
+Miraak's Sword
+Natalya's Reflection
+Nesingwary's Seasoning
+Oblivion
+Oblivion Blade
+Obsidian Greatsword
+Phantom Sword
+Power Sword
+Ragnarok sword
+Razor Edge
+Runeblade
+Scrimshaw
+Shadowmourne
+Shadowstalker Blade
+Soul Calibur
+Soul Edge
+Starfire
+Stone of Courage
+Sulfuras, Hand of Ragnaros
+Taeguk
+Tenebrium weapons
+Thas'dorah, Legacy of the Windrunners
 The Balder Side Sword
-The Uchigatana
-The Claymore
 The BKGSword
+The Butcher's Sickle
+The Calling
+The Champions
+The Claymore
+The Convergence
+The Cranium Basher
+The Dawnguard Rune Axe
+The Defiant
+The Determinator
 The Drake Sword
+The Entropy
+The Gidbinn
+The Grandfather
+The Grandfather
+The Greatsword
+The Katana
+The Long Sword
+The Longhammer
+The Oculus
+The Omen
+The Pale Blade
+The Scimitar
+The Twin Blades of Azzinoth
+The Uchigatana
+The Unquenchable
+The Zweihander
+Thori'dal, the Stars' Fury
+Thunder Blade
+Thunderfury, Blessed Blade of the Windseeker
+Titanstrike
+Twilight Sword
+Ultima Weapon
+Val'anyr, Hammer of Ancient Kings
+Valla's Bequest
+Warlock Blade
+Zodiac sword

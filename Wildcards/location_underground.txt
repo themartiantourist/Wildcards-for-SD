@@ -1,19 +1,19 @@
-tunnel
-Subway system
-Mine shaft
-Underground storage facility
-Fallout shelter
 Bunker
-Cave
 Catacomb
-Storm shelter
-Underground garage
-Tuned Mass Damper structure
-Utility tunnel
+Cave
+Data center
+Decommissioned military site
+Fallout shelter
+Flood control system
 Greenhouse
 Hydroelectric power plant
-Flood control system
-Waste management facility
-Decommissioned military site
-Data center
+Mine shaft
+Storm shelter
+Subway system
+Tuned Mass Damper structure
+tunnel
 Underground city
+Underground garage
+Underground storage facility
+Utility tunnel
+Waste management facility

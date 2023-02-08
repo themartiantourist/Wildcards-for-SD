@@ -7,97 +7,97 @@ Amber Brown
 Amethyst
 Antique Gray
 Apricot
+Aqua Blue
+Aqua Green
 Army Brown
 Army Green
 Ash Gray
 Asphalt Gray
-Aqua Blue
-Aqua Green
 Baby Blue
 Baby Pink
 Baby Yellow
 Banana Yellow
 Bear Brown
+Birch
 Bisque
 Blood Red
 Blue Screen of Death
+Blush Pink
 Bone
-Birch
 Brass
-Bright Red
 Brick Red
+Brick Red
+Bright Blue
 Bright Green
 Bright Navy
 Bright Orange
-Blush Pink
 Bright Pink
-Bubblegum Pink
-Bright Blue
-Bright Red
-Brick Red
-Bright Yellow
 Bright Purple
+Bright Red
+Bright Red
+Bright Yellow
+Bubblegum Pink
 Burlap Brown
 Burnt Orange
 Camel
-Carolina Blue
+Canary Yellow
 Caramel
 Carnation Pink
+Carolina Blue
 Celadon
-Cetacean Blue
+Cement Gray
 Cerise
-Champagne Pink
-Coffee Brown
+Cetacean Blue
 Chambray Blue
+Champagne Pink
+Charcoal Gray
 Chartreuse
 Cherry Blossom Pink
 Cherry Red
 Chocolate Brown
-Chrome
+Christmas Green
 Christmas Red
+Chrome
+Classic Purple
+Clay
 Cloud Burst Blue
 Cobalt Blue
+Cocoa Brown
+Coffee Brown
 Columbia Green
 Comic Book Red
+Comic Book Yellow
 Concrete
+Construction Orange
+Cool Gray
 Copper
+Coral Pink
+Corn Green
+Cornflower Blue
+Cortana Blue
+Cotton Candy Pink
 Coyote Brown
 Cream
 Crimson
-Cement Gray
-Charcoal Gray
-Cool Gray
-Corn Green
-Canary Yellow
-Classic Purple
-Clay
-Cocoa Brown
-Comic Book Yellow
-Construction Orange
-Coral Pink
-Cotton Candy Pink
 Cyan
-Christmas Green
-Cornflower Blue
-Cortana Blue
 Dark Blue
+Dark Brown
+Dark Chocolate Brown
+Dark Gray
+Dark Green
 Dark orange
+Dark Pink
+Dark Purple
 Dark Red
 Dark Sand Brown
-Dark Brown
-Dark Gray
-Dark Chocolate Brown
 Dark Steel Gray
-Dazzling Blue
-Denim Blue
-Dorian Gray
-Dirt Brown
-Dark Purple
 Dark Yellow
-Dusty Rose Pink
-Dark Pink
+Dazzling Blue
 Deep Pink
-Dark Green
+Denim Blue
+Dirt Brown
+Dorian Gray
+Dusty Rose Pink
 Earthy Red
 Electric Blue
 Emerald Green
@@ -106,30 +106,30 @@ Eucalyptus
 Eye Brown
 Fire Truck Red
 Flamingo Pink
+Flower Pink
 Fluorescent Blue
+Fluorescent Green
 Fluorescent Pink
 Fluorescent Yellow
-Flower Pink
+Forest Green
 French Blue
 French Gray
 Fun Yellow
-Fluorescent Green
-Forest Green
 Gainsboro Gray
-Graphite Gray
-Gunmetal Gray
-Gun Smoke Gray
+Girl Scout Green
 Glowing Moon Yellow
-Golden Yellow
-Golden Brown
 Gold Pink
+Golden Brown
+Golden Yellow
 Goldfish Orange
 Grapefruit Pink
-Green Screen Color
-Girl Scout Green
+Graphite Gray
 Grass Green
-Halloween Orange
+Green Screen Color
+Gun Smoke Gray
+Gunmetal Gray
 Hair Brown
+Halloween Orange
 Harvest Gold
 Heather Gray
 Heliconia
@@ -146,45 +146,45 @@ Jade Green
 Kelly Green
 King Blue
 Knockout Pink
+Lavender
 Leaf Green
 Leather Brown
+Legal Pad Yellow
+Legendary Gray
+Lemon Yellow
 Light blue
 Light Blush
 Light Brown
+Light Gray
 Light Orange
+Light Pink
+Light purple
 Light Red
+Light Yellow
+Light Zerg Purple
 Lightsaber Blue
 Lightsaber Green
 Lightsaber Red
-Lip Pink
-Light Pink
-Legendary Gray
-Light Gray
-Lavender
-Light purple
 Lilac
-Light Zerg Purple
 Lime Green
 Linen
-Legal Pad Yellow
-Lemon Yellow
-Light Yellow
+Lip Pink
 Magenta
-Mauve
-Mint Blue
-Marines Blue
 Malibu Blue
+Marines Blue
 Matte Gray
+Mauve
 Medium Brown
 Medium Dark Red
 Melon
 Metallic Gray
 Midnight Blue
+Midnight Green
 Midnight Purple
 Milano
-Millennial Pink
-Midnight Green
 Military Green
+Millennial Pink
+Mint Blue
 Mint Green
 Mocha
 Monarch Orange
@@ -205,87 +205,87 @@ Nickel Gray
 Nude Pink
 Oatmeal
 Ocean Blue
-Oxblood Red
 Olive Brown
 Olive Green
+Oxblood Red
 Oxford Brown
 Oxford Gray
 Pacific Blue
-Pastel Green
-Pine Green
+Pale Blue
 Pale Gold
-Pastel Blue
-Pastel Red
-Pewter
-Plum Purple
-Pale Yellow
-Pastel Gray
-Pastel Purple
-Pastel Yellow
 Pale Pink
+Pale Yellow
+Paper Bag Brown
 Passion Pink
-Pastel Pink
-Pastel Red
+Pastel Blue
+Pastel Gray
+Pastel Green
 Pastel Orange
-Pearl Pink
-Primary Blue
-Powder Blue
-Police Blue
+Pastel Pink
+Pastel Purple
+Pastel Red
+Pastel Red
+Pastel Yellow
 Peacock Blue
+Pearl Pink
 Periwinkle
 Petrol
-Pale Blue
-Paper Bag Brown
+Pewter
+Pine Green
 Platinum
+Plum Purple
+Police Blue
+Powder Blue
+Primary Blue
 Pumpkin Spice Orange
-Road Sign Yellow
-Rich Gray
 Racing Red
 Red Orange
+Reflex Blue
 Rhodamine Red
-Rich Red
-Rose Red
-Road Sign Brown
-Road Sign Orange
-Ruby Red
-Rustic Red
-Rotary Blue
-Road Sign Green
-Robin Egg Blue
-Road Sign Blue
 Rich Blue
 Rich Brown
-Reflex Blue
-Royal Blue
+Rich Gray
+Rich Red
+Road Sign Blue
+Road Sign Brown
+Road Sign Green
+Road Sign Orange
+Road Sign Yellow
+Robin Egg Blue
+Rose Red
 Rosy Brown
 Rosy Pink
-Sage Green
-Sandstone
-Sapphire Blue
-Sea Blue
-Sky Blue
+Rotary Blue
+Royal Blue
+Ruby Red
+Rustic Red
 Safety Yellow
 Saffron
+Sage Gray
+Sage Green
+Salmon Pink
+Sandstone
+Sapphire Blue
+Satin Sheets Gold
 Sawgrass Brown
-Seafoam Green
-Sepia Brown
 Scarlet Red
 School Bus yellow
-Summer Yellow
-Sage Gray
+Sea Blue
+Seafoam Green
+Sepia Brown
 Sheffield Gray
 Shrek Green
+Siena Brown
+Silvery Pink
+Sky Blue
 Sky Blue
 Slate Gray
+Soft Pink
 Spearmint
 Spring Green
 Steel Gray
-Satin Sheets Gold
-Salmon Pink
-Siena Brown
-Silvery Pink
-Soft Pink
 Strawberry
+Summer Yellow
 Sweet Pink
 Taupe Brown
 Taxi Cab Yellow
@@ -306,11 +306,11 @@ Very Gray
 Vibrant Pink
 Violet
 Viridian
-Watermelon
-Whiskey Brown
+Walnut Brown
 Warm Brown
 Warm Gray
-Wood Brown
-Walnut Brown
+Watermelon
+Whiskey Brown
 Wine Red
+Wood Brown
 Yellow Green

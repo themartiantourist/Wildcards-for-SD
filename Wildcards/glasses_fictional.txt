@@ -1,15 +1,15 @@
-Cybernetic Goggles
-Steampunk Goggles
-Night Vision Goggles
-X-Ray Glasses
-Infrared Goggles
-Laser Goggles
-Force Field Goggles
-Holo-goggles
-Thermal Imaging Goggles
-Gravity Goggles
-Rainbow Goggles
-Electric Shock Goggles
-Hyperspace Goggles
-Invisibility Goggles
 Anti-Gravity Goggles
+Cybernetic Goggles
+Electric Shock Goggles
+Force Field Goggles
+Gravity Goggles
+Holo-goggles
+Hyperspace Goggles
+Infrared Goggles
+Invisibility Goggles
+Laser Goggles
+Night Vision Goggles
+Rainbow Goggles
+Steampunk Goggles
+Thermal Imaging Goggles
+X-Ray Glasses

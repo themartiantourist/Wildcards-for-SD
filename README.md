@@ -61,5 +61,13 @@ Almost all of the wildcards was generated with [ChatGPT](https://chat.openai.com
 
 A sample ChatGPT prompt can be:
 ```
-Give me a large list of *something*. Return it in code wrap. Each item it its own line and without any numbering and duplicate.
+Give me a large list of *something*. Return it in code wrap. Each item in its own line and without any numbering and duplicates.
 ```
+
+## Stay updated
+You can just **double click**
+
+```
+Updater.bat
+```
+ to get updates to the latest changes. It will also display the latest changes made to the repo.

@@ -1,21 +1,20 @@
-Altar of the Sun God
-Altar of the Moon Goddess
-Altar of the Elemental Lords
 Altar of the Ancestors
-Altar of the Void
-Altar of the Dragon King
-Altar of the Necromancer
-Altar of the Kraken
-Altar of the Phoenix
-Altar of the Forbidden Magic
-Altar of the Dark Lord
-Altar of the Storm God
-Altar of the Spirit World
 Altar of the Ancient Gods
-Altar of the Undying
-Altar of the Celestial Heavens
 Altar of the Archdemon
+Altar of the Celestial Heavens
+Altar of the Dark Lord
+Altar of the Dragon King
+Altar of the Elemental Lords
 Altar of the Eternal Flame
-Altar of the Underworld
+Altar of the Forbidden Magic
+Altar of the Kraken
+Altar of the Moon Goddess
+Altar of the Necromancer
+Altar of the Phoenix
 Altar of the Primal Elements.
-
+Altar of the Spirit World
+Altar of the Storm God
+Altar of the Sun God
+Altar of the Underworld
+Altar of the Undying
+Altar of the Void

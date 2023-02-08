@@ -1,0 +1,39 @@
+Angry
+Bending Over
+Climbing
+Confused
+Crawling
+Crouching
+Crying
+Cycling
+Dancing
+Driving
+Flying
+Gesturing
+Hanging
+High-Fiving
+Holding an Object
+Hugging
+Hunching
+Jumping
+Kissing
+Kneeling
+Laughing
+Laying Down
+Leaning
+Meditating
+Playing an Instrument
+Pointing
+Praying
+Running
+Shaking Hands
+Sitting
+Skateboarding
+Smiling
+Sprinting
+Standing
+Surprised
+Swimming
+Thinking
+Thumbs-Up
+Walking

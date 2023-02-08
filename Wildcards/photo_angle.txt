@@ -1,23 +1,23 @@
 Bird's Eye View
-Low Angle
-High Angle
-Eye Level
+Boom Shot
+Close-Up
+Crane Shot
+Dolly Shot
 Dutch Angle
+Extreme Close-Up
+Eye Level
+Fish-Eye Lens
+Handheld Shot
+High Angle
+Jib Shot
+Long Shot
+Low Angle
 Oblique Angle
 Overhead Shot
-Worm's Eye View
-Tracking Shot
-Dolly Shot
-Crane Shot
-Steadicam Shot
-Jib Shot
-Boom Shot
-Handheld Shot
 Point-of-View Shot
-Fish-Eye Lens
+Steadicam Shot
 Tilt Shot
-Zoom Shot
-Close-Up
-Extreme Close-Up
-Long Shot
+Tracking Shot
 Wide shot
+Worm's Eye View
+Zoom Shot

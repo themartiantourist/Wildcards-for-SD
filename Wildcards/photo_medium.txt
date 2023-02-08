@@ -1,30 +1,30 @@
-Polaroid
-Kodachrome
-Fujichrome
-Ektachrome
 Agfacolor
-Ilford
-Konica
+Albumen Print
 Ansco
-Velvia
-Provia
-Sensia
-Forte
+Autochrome
+C-Print
+Chromogenic Print
 Digital
 Disposable Camera
-Instamatic
-Medium Format
-Large Format
-Transparency
-C-Print
 Dye-Sublimation
+Ektachrome
+Forte
+Fujichrome
 Gelatin Silver Print
-Inkjet Print
-Albumen Print
-Chromogenic Print
-Lambda Print
-Lightjet Print
 Giclée Print
-Offset Lithograph
+Ilford
+Inkjet Print
+Instamatic
+Kodachrome
+Konica
+Lambda Print
+Large Format
+Lightjet Print
 Lithprint
-Autochrome
+Medium Format
+Offset Lithograph
+Polaroid
+Provia
+Sensia
+Transparency
+Velvia

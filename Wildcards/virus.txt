@@ -1,18 +1,18 @@
-T-Virus
-Red Queen Virus
-Nemesis Virus
-C-Virus
-G-Virus
-Progenitor Virus
-Umbrella Virus
 Blacklight Virus
+C-Virus
 Ceph Virus
 Chimera Virus
-Strain 121
-Epsilon Virus
-The Plague
-Xenovirus Takis-A
-Reaper Virus
-Necrotic Plague
-Plaga Parasites
 Cordyceps Virus
+Epsilon Virus
+G-Virus
+Necrotic Plague
+Nemesis Virus
+Plaga Parasites
+Progenitor Virus
+Reaper Virus
+Red Queen Virus
+Strain 121
+T-Virus
+The Plague
+Umbrella Virus
+Xenovirus Takis-A

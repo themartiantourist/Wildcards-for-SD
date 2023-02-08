@@ -1,0 +1,10 @@
+Athletic
+Average
+Broad Shouldered
+Lean
+Muscular
+Obese
+Overweight
+Skinny
+Stocky
+Thin

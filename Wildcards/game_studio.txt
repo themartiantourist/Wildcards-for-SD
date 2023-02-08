@@ -1,20 +1,20 @@
-Blizzard Entertainment
-Naughty Dog
-Studio Ghibli
-Rockstar Games
-Ubisoft Montreal
-Insomniac Games
-CD Projekt Red
-Quantic Dream
-Square Enix
-BioWare
-Lionhead Studios
-Guerilla Games
-Mojang Studios
-FromSoftware
-id Software
-Valve Corporation
-Infinity Ward
 343 Industries
+BioWare
+Blizzard Entertainment
+CD Projekt Red
+FromSoftware
+Guerilla Games
+id Software
+Infinity Ward
+Insomniac Games
 Level-5
+Lionhead Studios
+Mojang Studios
+Naughty Dog
+Quantic Dream
+Rockstar Games
 SIE Santa Monica Studio.
+Square Enix
+Studio Ghibli
+Ubisoft Montreal
+Valve Corporation

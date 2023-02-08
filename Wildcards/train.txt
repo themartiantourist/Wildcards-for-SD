@@ -1,20 +1,20 @@
-Bullet Train
-Maglev Train
-Steam Train
-Electric Train
-TGV (Train à Grande Vitesse)
-Shinkansen
 Amtrak
-Regional Express
-Intercity Express
-Metro Train
-Monorail
-Tram
-Light Rail
-Funicular
-Gondola Lift
-Rack and Pinion Train
+Bullet Train
 Cable Car
 Commuter Train
-High-Speed Rail
+Electric Train
 Express Train
+Funicular
+Gondola Lift
+High-Speed Rail
+Intercity Express
+Light Rail
+Maglev Train
+Metro Train
+Monorail
+Rack and Pinion Train
+Regional Express
+Shinkansen
+Steam Train
+TGV (Train à Grande Vitesse)
+Tram

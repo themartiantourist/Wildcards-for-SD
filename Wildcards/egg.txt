@@ -1,27 +1,27 @@
-Egg
+Alien Egg
 Bird of Paradise Egg
 Cassowary Egg
-Emu Egg
-Ostrich Egg
-Rhea Egg
-Kiwi Egg
-Elephant Bird Egg
-Penguin Egg
+Chaos Egg
+Chupacabra Egg
+Cyborg Egg
+Demonic Egg
+Dinosaur Egg
 Dinosaur Egg
 Dragon's Egg
-Chaos Egg
-Phoenix Egg
-Unicorn Egg
-Dinosaur Egg
-Giant Monster Egg
-Goblin Egg
-Demonic Egg
-Alien Egg
-Cyborg Egg
-Zombie Egg
+Egg
+Elephant Bird Egg
+Emu Egg
 Fairy Egg
 Gargoyle Egg
-Hydra Egg
-Kraken Egg
-Chupacabra Egg
 Ghost Egg
+Giant Monster Egg
+Goblin Egg
+Hydra Egg
+Kiwi Egg
+Kraken Egg
+Ostrich Egg
+Penguin Egg
+Phoenix Egg
+Rhea Egg
+Unicorn Egg
+Zombie Egg

@@ -1,20 +1,19 @@
-Sky Castle
-Cloud City
-Floating Islands
 Aerial Metropolis
-High Altitude Platforms
-Sky Spires
-Aerial Tethers
-Floating Fortresses
-Airborne Habitats
-Sky Villages
-Balloon Cities
-Sky Colonies
-Aerial Resorts
-Floating Habitats
 Aerial Navies
-Sky Havens
+Aerial Resorts
+Aerial Tethers
 Airborne Arcologies
+Airborne Habitats
+Balloon Cities
+Cloud City
 Floating Cities
+Floating Fortresses
+Floating Habitats
+Floating Islands
+High Altitude Platforms
+Sky Castle
+Sky Colonies
+Sky Havens
 Sky Palaces
-
+Sky Spires
+Sky Villages

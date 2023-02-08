@@ -1,64 +1,62 @@
-Kryptonite
-Unobtanium
 Adamantium
-Vibranium
-Mandalorian Beskar Steel
-Heartstone
-Prometheum
-Phlebotinum
-Eru-silk
-Energon
-Element Zero
-Force Energy
 Aether
-Mythril
-Orichalcum
-Durasteel
-Spectral energy
-Unbreakable Glass
-Shadowcloth
+Arcane
+Aurora
+Cavorite
+Celerium
+Chrono
+Cosmic
 Dark Matter
-Nth Metal
+Deltron
 Dilithium
+Durasteel
+Eldrid
+Element 121
 Element X
 Element Zero
-Element 121
+Elemental
+Elerium
+Empowered
+Enchanted
+Energon
+Eru-silk
+Ezium
+Force Energy
+Galactic
+Galvorn
+Heartstone
+Illuminated
+Kallium
+Krynn
+Kryptonite
+Lunaris
+Mandalorian Beskar Steel
+Mystic
+Mystical
+Mythril
 Naqahdah
+Nebula
+Nirax
+Nth Metal
+Orichalcum
+Phlebotinum
+Plasma
+Prometheum
+Quintessence
+Radiant
+Ravium
 Red matter
 Schwartzschild radius crystals
-Quintessence
-Deltron
-Phlebotinum
-Zeronite
-Elerium
-Cavorite
-Ravium
-Galvorn
-Zeronium
-Thrakium
-Kallium
-Celerium
-Ezium
-Plasma
-Krynn
-Xehon
-Nirax
-Eldrid
-Solaris
-Aurora
-Lunaris
-Terran
-Nebula
-Stardust
-Galactic
-Cosmic
-Mystic
-Chrono
-Elemental
-Arcane
-Empowered
-Radiant
-Enchanted
+Shadowcloth
 Shimmering
-Mystical
-Illuminated
+Solaris
+Spectral energy
+Stardust
+Terran
+Thrakium
+Unbreakable Glass
+Unobtanium
+Vibranium
+Xehon
+Zeronite
+Zeronium

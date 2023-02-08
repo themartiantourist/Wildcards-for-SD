@@ -1,42 +1,41 @@
-Klingon
-Wookie
-Ewok
-Vulcan
-Dalek
-Cybermen
-Xenomorph
-Orion
-The Borg
-Cylon
-Replicant
-Jaffa
-Goa'uld
-Na'vi
-Gorn
-Tholian
-The Flood
 Alien
-Mutant
-Symbiote
-Xenomorph
-Kaiju
-Daemon
-Parasite
+android
+bio-android
+bio-synthetic organism
+biorobotic entity
 Changeling
+cloned entity
+Cybermen
+cybernetic organism
+cyberspace entity
+cyborg
+Cylon
+Daemon
+Dalek
+Eldritch Abomination
+enhanced lifeform
+Ewok
+genetic hybrid
+genetically engineered lifeform
+Goa'uld
+Gorn
+Jaffa
+Kaiju
+Klingon
+Mutant
+Na'vi
+Orion
+Parasite
+Protoplasmic entity
+Replicant
 Sentient Species
 Shapeshifter
-Eldritch Abomination
-Protoplasmic entity
+Symbiote
+The Borg
+The Flood
+Tholian
 Transdimensional being
-cyborg
-enhanced lifeform
-genetic hybrid
-android
-cyberspace entity
-biorobotic entity
-genetically engineered lifeform
 transgenic organism
-cloned entity
-cybernetic organism
-bio-synthetic organism
-bio-android
+Vulcan
+Wookie
+Xenomorph

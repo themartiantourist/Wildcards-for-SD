@@ -1,46 +1,46 @@
-Sword
 Axe
-Bow
-Crossbow
-Spear
-Knife
-Dagger
-Polearm
-Halberd
-Club
-Hammer
-Mace
-Flail
-War scythe
-Whip
-Boomerang
-Blowgun
-Shuriken
-Caltrops
-Katana
-Jian
-Gladius
-Scimitar
-Macuahuitl
-Warglaive
 Battle stave
-War hammer
-Shield
-Firearm
-Pistol
-Rifle
-Shotgun
-Sniper rifle
-Machine gun
-Flamethrower
-Grenade launcher
-Rocket launcher
-Explosive device
-Landmine
-Grenade
-Bomb
-Poison dart
 Blow dart
-Slingshot
+Blowgun
 Blowpipe
+Bomb
+Boomerang
+Bow
 Bow and arrow
+Caltrops
+Club
+Crossbow
+Dagger
+Explosive device
+Firearm
+Flail
+Flamethrower
+Gladius
+Grenade
+Grenade launcher
+Halberd
+Hammer
+Jian
+Katana
+Knife
+Landmine
+Mace
+Machine gun
+Macuahuitl
+Pistol
+Poison dart
+Polearm
+Rifle
+Rocket launcher
+Scimitar
+Shield
+Shotgun
+Shuriken
+Slingshot
+Sniper rifle
+Spear
+Sword
+War hammer
+War scythe
+Warglaive
+Whip

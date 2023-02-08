@@ -1,19 +1,19 @@
-Single Bed
-Twin Bed
-Double Bed
-Queen Bed
-King Bed
-California King Bed
+Adjustable Bed
+Air Mattress Bed
 Bunk Bed
+California King Bed
+Canopy Bed
+Daybed
+Double Bed
+Four Poster Bed
+Futon Bed
+Hospital Bed
+King Bed
 Loft Bed
 Murphy Bed
-Daybed
-Canopy Bed
-Four Poster Bed
 Platform Bed
-Upholstered Bed
+Queen Bed
+Single Bed
 Storage Bed
-Adjustable Bed
-Hospital Bed
-Futon Bed
-Air Mattress Bed
+Twin Bed
+Upholstered Bed
