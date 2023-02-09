@@ -1,0 +1,51 @@
+Artichoke
+Arugula
+Asparagus
+Avocado
+Beet
+Bell pepper
+Bok choy
+Broccoli
+Brussels sprout
+Butter lettuce
+Cabbage
+Carrot
+Cauliflower
+Celery
+Chard
+Collard green
+Corn
+Cucumber
+Eggplant
+Endive
+Fennel
+Garlic
+Ginger
+Green bean
+Iceberg lettuce
+Jalapeno pepper
+Kale
+Leek
+Lima bean
+Mushroom
+Mustard green
+Okra
+Onion
+Parsley
+Parsnip
+Pea
+Potato
+Pumpkin
+Radicchio
+Radish
+Romaine lettuce
+Rutabaga
+Serrano pepper
+Snap bean
+Spinach
+Summer squash
+Sweet potato
+Tomato
+Turnip
+Winter squash
+Zucchini

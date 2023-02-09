@@ -3,7 +3,6 @@ Ammonites
 Brachiopod Shells
 Coprolites
 Dinosaur bones
-Dinosaur Bones
 Fossil
 Fossil shells
 Fossilized Coral
@@ -13,5 +12,4 @@ Gastropod Shells
 Mosasaur bones
 Petrified wood
 Shark teeth
-Shark Teeth
 Trilobites

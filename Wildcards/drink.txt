@@ -1,0 +1,64 @@
+7Up
+Americano
+Beer
+Bellini
+Bloody Mary
+Brandy
+Club Soda
+Coca-Cola
+Coffee
+Cosmopolitan
+Daiquiri
+Dr. Pepper
+Fanta
+French 75
+Fruit Punch
+Gatorade
+Gin
+Gin Fizz
+Ginger Ale
+Grape Soda
+Hot chocolate
+Hurricane
+Iced Tea
+Iced Tea
+Juice
+Kamikaze
+Lemonade
+Lemonade
+Long Island Iced Tea
+Mai Tai
+Manhattan
+Margarita
+Martini
+Milk
+Mojito
+Monster
+Mountain Dew
+Negroni
+Old Fashioned
+Orange Soda
+Pepsi
+Pina Colada
+Powerade
+Red Bull
+Rob Roy
+Root Beer
+Rum
+Rusty Nail
+Sarsaparilla
+Sazerac
+Sidecar
+Smoothies
+Sprite
+Tea
+Tequila
+Tom Collins
+Tonic Water
+Vanilla Cream Soda
+Vodka
+Water
+Whiskey
+Whiskey Sour
+White Russian
+Wine

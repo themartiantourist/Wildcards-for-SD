@@ -1,7 +1,6 @@
 Abstract pattern
 Argyle pattern
 Basketweave pattern
-Basketweave pattern
 Chevron pattern
 Circular pattern
 Decorative pattern
