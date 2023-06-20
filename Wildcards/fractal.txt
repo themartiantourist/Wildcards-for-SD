@@ -1,16 +1,47 @@
 Apollonian Gasket
 Barnsley Fern
+Benoit Mandelbrot's Dust
+Burning Ship Fractal
 Cantor Set
+Circle Fractal
 Circle Inversion Fractal
 Dragon Curve
+Gosper Curve
+Heighway Dragon Curve
+Heighway Tree
 Hexaflake
+Hexagonal Gosper Curve
+Hilbert Curve
 Julia Set
+Kam Torus
+Koch Curve
 Koch Snowflake
+L-system Fractal
 L-Systems Fractal
+Lévy C Curve
+Lorenz Attractor
 Lyapunov Fractal
 Mandelbrot Set
 Mandelbulb
+Menger Sponge
+Newton Fractal
 Peano Curve
+Peano-Gosper Curve
+Peano-Gosper Island
+Pentaflake
 Pseudo-Random Fractal
+Pythagoras Tree
+Quadratic Koch Curve
+Quadratic Koch Island
+Quadratic Snowflake
+Sierpinski Arrowhead Curve
+Sierpinski Carpet
+Sierpinski Curve
+Sierpinski Tetrahedron
 Sierpinski Triangle
+Terdragon Fractal
+Tree Fractal
+Triflake
 Triple Spiral
+Twin Dragon Fractal
+Vicsek Fractal

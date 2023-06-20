@@ -1,0 +1,46 @@
+Band
+Bangle
+Cuff
+Garter
+Glove
+Ribbon
+Sleeve
+Sleeve Tattoo
+Sleevelet
+Tattoo
+Ties
+Warmer
+Wrap
+Armlet
+Bangle
+Bracelet
+Cuff
+Finger Armor
+Finger Bracelet
+Finger Claws
+Finger Ring
+Fingerless Gloves
+Fingerless Mittens
+Fingerless Sleeves
+Gauntlet
+Glove
+Glovelettes
+Hand Armor
+Hand Bracelet
+Hand Chain
+Hand Harness
+Hand Ornament
+Hand Tattoo
+Handkerchief
+Handlet
+Handwrap
+Palm Bracelet
+Wrist Charm
+Wrist Corsage
+Wrist Cuff
+Wrist Strap
+Wrist Support
+Wrist Wallet
+Wristband
+Wristlet
+Wristwatch
